@@ -1,18 +1,18 @@
 {
     "basics": {
       "name": "Raúl Federico Lacabanne",
-      "label": "Programmer",
+      "label": "Full Stack Developer & Master in Digital Arts",
       "image": "",
       "email": "john@gmail.com",
-      "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
+      "phone": "",
+      "url": "https://knnv-ar.github.io/portfolio/",
       "summary": "A summary of John Doe…",
       "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
-        "city": "San Francisco",
-        "countryCode": "US",
-        "region": "California"
+        "address": "",
+        "postalCode": "",
+        "city": "Buenos Aires",
+        "countryCode": "AR",
+        "region": "Argentina"
       },
       "profiles": [{
         "network": "Twitter",
