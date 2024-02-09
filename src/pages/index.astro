@@ -1,11 +1,25 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from "@/layouts/Layout.astro";
+import Hero from "@/components/Hero.astro";
+import About from "@/components/About.astro";
+import Experience from "@/components/Experience.astro";
+import Education from "@/components/Education.astro";
+import Projects from "@/components/Projects.astro";
+import Skills from "@/components/Skills.astro";
+import KeyboardManager from "@/components/KeyboardManager.astro";
 ---
 
 <Layout title="Raúl Federico Lacabanne portfolio">
-	<main>
-	</main>
+  <main>
+    <Hero />
+    <About />
+    <Experience />
+    <Education />
+    <Projects />
+    <Skills />
+  </main>
+
+  <KeyboardManager />
 </Layout>
 
-<style>
-</style>
+<style></style>
