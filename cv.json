@@ -14,11 +14,23 @@
         "countryCode": "AR",
         "region": "Argentina"
       },
-      "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
+      "profiles": [
+      {
+        "network": "GitHub",
+        "username": "knnv-ar",
+        "url": "https://github.com/knnv-ar"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "raul-lacabanne",
+        "url": "https://www.linkedin.com/in/raul-lacabanne/"
+      },
+      {
+        "network": "X",
+        "username": "raullacabanne",
+        "url": "https://twitter.com/raullacabanne"
+      }
+    ]
     },
     "work": [{
       "name": "Company",
