@@ -1,20 +1,20 @@
 {
-    "basics": {
-      "name": "Raúl Federico Lacabanne",
-      "label": "Full Stack Developer & Master in Digital Arts",
-      "image": "/me.webp",
-      "email": "john@gmail.com",
-      "phone": "112223333",
-      "url": "https://knnv-ar.github.io/portfolio/",
-      "summary": "A summary of John Doe…",
-      "location": {
-        "address": "",
-        "postalCode": "",
-        "city": "Buenos Aires",
-        "countryCode": "AR",
-        "region": "Argentina"
-      },
-      "profiles": [
+  "basics": {
+    "name": "Raúl Federico Lacabanne",
+    "label": "Full Stack Developer & Master in Digital Arts",
+    "image": "/me.webp",
+    "email": "john@gmail.com",
+    "phone": "112223333",
+    "url": "https://knnv-ar.github.io/portfolio/",
+    "summary": "Tenured Full Professor of Multimedia Art Production and Digital Art Theory, I am a lecturer and researcher with 20+ years of experience teaching courses at both the undergraduate and postgraduate levels. I specialize in the development of digital assets, including full-stack websites, soundscapes, video art, art installations, electronic art, document digitization and preservation, still images, and video presentations, among others. I am passionate about groundbreaking digital technologies and interdisciplinary working groups. I adapt well to the changing needs of businesses and enjoy researching and applying new frameworks and libraries to streamline the production process.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Buenos Aires",
+      "countryCode": "AR",
+      "region": "Argentina"
+    },
+    "profiles": [
       {
         "network": "GitHub",
         "username": "knnv-ar",
@@ -31,30 +31,49 @@
         "url": "https://twitter.com/raullacabanne"
       }
     ]
+  },
+  "work": [
+    {
+      "name": "CAF- Development Bank of Latin America and the Caribbean",
+      "position": "Graphic designer and layout designer",
+      "url": "https://scioteca.caf.com/handle/123456789/2159",
+      "startDate": "2023-08-01",
+      "endDate": "2023-10-30",
+      "summary": "The document summarizes the experience of Mobile Digital Classrooms in Jujuy province and offers recommendations for other educational systems looking to implement similar initiatives using digital technologies. It provides insights into the digital educational landscape, considerations for the transformation of educational systems, and addresses specific challenges in Jujuy across dimensions such as digital infrastructure, governance, pedagogical models, digital content, and teacher training. The document also discusses the implementation of the Mobile Digital Classroom model, the design of a training program for educators, and a survey of potential digital educational solutions for integration in the province of Jujuy.",
+      "highlights": ["Katz, R., Lugo, M. T., Álvarez, M., & Lolácono, F. (2023, October 30). Transformación digital en la  educación: el caso de la provincia de Jujuy, Argentina. Distrito Capital: CAF- banco de desarrollo de América Latina y el Caribe. Retrieved from https://scioteca.caf.com/handle/123456789/2159"]
     },
-    "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Started the company"
-      ]
-    }],
-    "volunteer": [{
+    {
+      "name": "ILO - International Labour Organization",
+      "position": "Graphic designer and layout designer",
+      "url": "https://www.argentina.gob.ar/sites/default/files/fasciculo_cuyo-_libro.pdf",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-01",
+      "summary": "The main objective of the publication is to ensure that every child and teenager at the 'Buena Cosecha Center' not only has a good time and forms friendships but also develops values of solidarity, recognizes their rights, learns self-care and care for others, and feels empowered to contribute to improving rights and responsibilities in their community. The goal is for them to leave each day looking forward to returning, knowing their presence is crucial as a protagonist in this communal effort.",
+      "highlights": ["Pedagogical content for the leaders of the care centers of the 'Buena Cosecha Program' in five volumes (Center, Cuyo, NEA, NOA, and Patagonia)."]
+    },
+    {
+      "name": "PROMACE - Government of the province of Jujuy",
+      "position": "Graphic designer and layout designer",
+      "url": "https://drive.google.com/file/d/1xugScxqh9Ah2ISUF2YeOKxfw-uARRWvA/view?usp=sharing",
+      "startDate": "2023-02-01",
+      "endDate": "2023-05-18",
+      "summary": "This publication aims to propose a journey with the objectives of strengthening teaching skills to enhance teaching using Mobile Digital Classrooms, and strengthening management capabilities for school leaders to support and advise teaching and learning with the use of Mobile Digital Classrooms in the province of Jujuy, Argentina.",
+      "highlights": ["'El Aula Digital Móvil (ADM) en la enseñanza. De la exploración al proyecto.' en cinco volúmenes (Niveles: Inicial, Primario, Secundario, Terciario y Directivos)."]
+    }
+  ],
+  "volunteer": [
+    {
       "organization": "Organization",
       "position": "Volunteer",
       "url": "https://organization.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }],
-    "education": [{
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
       "institution": "University",
       "url": "https://institution.com/",
       "area": "Software Development",
@@ -62,61 +81,67 @@
       "startDate": "2011-01-01",
       "endDate": "2013-01-01",
       "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
-    "awards": [{
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
       "title": "Award",
       "date": "2014-11-01",
       "awarder": "Company",
       "summary": "There is no spoon."
-    }],
-    "certificates": [{
+    }
+  ],
+  "certificates": [
+    {
       "name": "Certificate",
       "date": "2021-11-07",
       "issuer": "Company",
       "url": "https://certificate.com"
-    }],
-    "publications": [{
+    }
+  ],
+  "publications": [
+    {
       "name": "Publication",
       "publisher": "Company",
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
       "summary": "Description…"
-    }],
-    "skills": [{
+    }
+  ],
+  "skills": [
+    {
       "name": "Web Development",
       "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }],
-    "languages": [{
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
       "language": "English",
       "fluency": "Native speaker"
-    }],
-    "interests": [{
+    }
+  ],
+  "interests": [
+    {
       "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
       "name": "Jane Doe",
       "reference": "Reference…"
-    }],
-    "projects": [{
+    }
+  ],
+  "projects": [
+    {
       "name": "Project",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
       "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
+      "highlights": ["Won award at AIHacks 2016"],
       "url": "https://project.com/"
-    }]
-  }
+    }
+  ]
+}
