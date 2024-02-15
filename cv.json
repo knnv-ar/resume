@@ -74,13 +74,33 @@
   ],
   "education": [
     {
-      "institution": "University",
+      "institution": "Digitalhouse (DH), Argentina",
       "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
+      "area": "Full Stack Web Developer",
+      "studyType": "Higher education course",
+      "startDate": "2022-05-01",
+      "endDate": "2022-11-01",
+      "score": "Approved",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "Universitat Pompeu Fabra (UPF), Spain",
+      "url": "https://institution.com/",
+      "area": "Digital Arts",
+      "studyType": "Master degree",
+      "startDate": "2005-10-01",
+      "endDate": "2006-12-15",
+      "score": "Approved",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "Universidad Nacional de Quilmes (UNQ), Argentina",
+      "url": "https://institution.com/",
+      "area": "Musical Composition with Electroacoustic Media",
+      "studyType": "Bachelor degree",
+      "startDate": "1993-04-01",
+      "endDate": "2001-08-20",
+      "score": "Approved",
       "courses": ["DB1101 - Basic SQL"]
     }
   ],
