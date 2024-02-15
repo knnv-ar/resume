@@ -131,9 +131,139 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "HTML",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Web development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Web development", "Frontend", "Responsive design"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Frontend", "CSS Framework", "Responsive design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "EJS",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Template engine", "JavaScript"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "&#9733; &#9733; &#9734; &#9734; &#9734;",
+      "keywords": ["Web development", "Frontend", "Backend", "JS superset"]
+    },
+    {
+      "name": "Node JS",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Backend", "JS runtime environment"]
+    },
+    {
+      "name": "PHP",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Web development", "Backend", "Server-side scripting"]
+    },
+    {
+      "name": "MySQL",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Database", "SQL", "Backend"]
+    },
+    {
+      "name": "Express.js",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Backend", "Node.js framework"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Database", "NoSQL", "Backend"]
+    },
+    {
+      "name": "Sequelize",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Backend", "ORM for Node.js"]
+    },
+    {
+      "name": "Prisma",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Backend", "Database toolkit"]
+    },
+    {
+      "name": "React",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Web development", "Frontend", "JavaScript library"]
+    },
+    {
+      "name": "Astro",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Frontend", "Static site generator"]
+    },
+    {
+      "name": "Next.js",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Web development", "Frontend", "React framework"]
+    },
+    {
+      "name": "p5.js",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Web development", "Frontend", "JavaScript library for creative coding"]
+    },
+    {
+      "name": "Restful API",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Web development", "API", "Backend"]
+    },
+    {
+      "name": "Ruby",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Backend", "Scripting language"]
+    },
+    {
+      "name": "Rubygems",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Ruby", "Package manager"]
+    },
+    {
+      "name": "Jekyll",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Static site generator", "Ruby"]
+    },
+    {
+      "name": "Git",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Source Code Management", "SQL", "Backend"]
+    },
+    {
+      "name": "GitHub",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Version control", "Collaboration platform"]
+    },
+    {
+      "name": "Markdown",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Documentation", "Text formatting"]
+    },
+    {
+      "name": "MDX",
+      "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+      "keywords": ["Web development", "Markdown", "React components"]
+    },
+    {
+      "name": "GitHub Flavored Markdown",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Documentation", "Text formatting", "GitHub"]
+    },
+    {
+      "name": "Agile methodologies",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": ["Project management", "Collaborative development"]
     }
   ],
   "languages": [
