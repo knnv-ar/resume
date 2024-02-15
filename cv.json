@@ -286,12 +286,31 @@
   ],
   "projects": [
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": ["Won award at AIHacks 2016"],
-      "url": "https://project.com/"
+      "name": "Portfolio minim",
+      "isActive": true,
+      "startDate": "2024-02-09",
+      "endDate": "",
+      "description": "A minimalist portfolio",
+      "highlights": ["Second project with Astro"],
+      "url": "https://knnv-ar.github.io/portfolio-json/"
+    },
+    {
+      "name": "SpaceX launches",
+      "isActive": true,
+      "startDate": "2024-02-05",
+      "endDate": "2024-02-08",
+      "description": "My first Astro project with SSG rendering. ",
+      "highlights": ["Just a intro to Astro +transition:persist"],
+      "url": "https://knnv-ar.github.io/astro-rocket/"
+    },
+    {
+      "name": "la-piscine - digital art gallery",
+      "isActive": true,
+      "startDate": "2022-10-24",
+      "endDate": "2022-11-03",
+      "description": "<la-piscine> is a digital art gallery that showcases the works created by students who took Multimedia Arts subjects levels 1 and 4, under the guidance of Professor Lacabanne, as part of the Multimedia Arts degree at the A.T.A.M. of the National University of the Arts.",
+      "highlights": ["AM1 students art gallery starting 2022."],
+      "url": "https://knnv-ar.github.io/la-piscine/"
     }
   ]
 }

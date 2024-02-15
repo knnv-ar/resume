@@ -7,4 +7,4 @@ https://github.com/BartoszJarocki/cv
 Adaptado del repositorio de midudev:
 https://github.com/midudev/minimalist-portfolio-json
 
-seguir en: 00:44:30 - Sección Experiencia
+seguir en: 01:09:13 - IsActive (proyectos activos)
