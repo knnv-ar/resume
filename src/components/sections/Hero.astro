@@ -130,7 +130,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
 
   footer {
     color: #555;
-    font-size: .65rem;
+    font-size: 0.65rem;
     display: flex;
     gap: 4px;
     margin-top: 8px;
@@ -151,5 +151,20 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
 
   footer a:hover {
     background: #eee;
+  }
+
+  @media screen and (max-width: 600px) {
+    .container {
+      flex-direction: column;
+    }
+
+    .container .info {
+      order: 2;
+    }
+
+    .container figure {
+      order: 1;
+      align-self: flex-start;
+    }
   }
 </style>
