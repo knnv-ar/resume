@@ -18,9 +18,9 @@ window.onload = function () {
           var anchoVentana =
             window.innerWidth ||
             document.documentElement.clientWidth ||
-            document.main.clientWidth;
+            document.body.clientWidth;
           // Actualizar el contenido en el cuerpo del documento
-          document.main.innerHTML =
+          document.body.innerHTML =
             "<p>Ancho de la ventana: " + anchoVentana + "px</p>";
         }
 
