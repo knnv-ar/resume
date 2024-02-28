@@ -11,6 +11,26 @@ import KeyboardManager from "@/components/KeyboardManager.astro";
 import { basics } from "@cv";
 
 const { name, label } = basics;
+//
+window.onload = function () {
+        // Función para actualizar el ancho de la ventana
+        function actualizarAnchoVentana() {
+          var anchoVentana =
+            window.innerWidth ||
+            document.documentElement.clientWidth ||
+            document.main.clientWidth;
+          // Actualizar el contenido en el cuerpo del documento
+          document.main.innerHTML =
+            "<p>Ancho de la ventana: " + anchoVentana + "px</p>";
+        }
+
+        // Llamar a la función inicialmente
+        actualizarAnchoVentana();
+
+        // Actualizar el ancho de la ventana cuando cambia el tamaño de la ventana
+        window.addEventListener("resize", actualizarAnchoVentana);
+      };
+
 ---
 
 <Layout title=`${name}'s portfolio | ${label}`>
