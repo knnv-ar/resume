@@ -34,13 +34,32 @@
   },
   "work": [
     {
+      "name": "Centro de Políticas Públicas en Educación, Comunicación y Tecnología (UNQ)",
+      "position": "Senior Digital Media Developer",
+      "url": "https://scioteca.caf.com/handle/123456789/2159",
+      "startDate": "2022-08-01",
+      "endDate": "2024-10-30",
+      "summary": "I developed several digital publications for \"Development Bank of Latin America and the Caribbean\" (CAF), \"International Labour Organization\" (ILO), \"PROMACE, Government of the province of Jujuy\"  and \"Ministry of Science, Technology and Innovation of Argentina\".",
+      "highlights": [
+        "InDesign",
+        "Photoshop",
+        "Illustrator",
+        "Moodle",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
       "name": "CAF- Development Bank of Latin America and the Caribbean",
       "position": "Graphic & layout designer",
       "url": "https://scioteca.caf.com/handle/123456789/2159",
       "startDate": "2023-08-01",
       "endDate": "2023-10-30",
       "summary": "The document summarizes the experience of Mobile Digital Classrooms in Jujuy province and offers recommendations for other educational systems looking to implement similar initiatives using digital technologies. It provides insights into the digital educational landscape, considerations for the transformation of educational systems, and addresses specific challenges in Jujuy across dimensions such as digital infrastructure, governance, pedagogical models, digital content, and teacher training. The document also discusses the implementation of the Mobile Digital Classroom model, the design of a training program for educators, and a survey of potential digital educational solutions for integration in the province of Jujuy.",
-      "highlights": ["Katz, R., Lugo, M. T., Álvarez, M., & Lolácono, F. (2023, October 30). Transformación digital en la  educación: el caso de la provincia de Jujuy, Argentina. Distrito Capital: CAF- banco de desarrollo de América Latina y el Caribe. Retrieved from https://scioteca.caf.com/handle/123456789/2159"]
+      "highlights": [
+        "Katz, R., Lugo, M. T., Álvarez, M., & Lolácono, F. (2023, October 30). Transformación digital en la  educación: el caso de la provincia de Jujuy, Argentina. Distrito Capital: CAF- banco de desarrollo de América Latina y el Caribe. Retrieved from https://scioteca.caf.com/handle/123456789/2159"
+      ]
     },
     {
       "name": "ILO - International Labour Organization",
@@ -49,7 +68,9 @@
       "startDate": "2023-05-01",
       "endDate": "2023-08-01",
       "summary": "The main objective of the publication is to ensure that every child and teenager at the 'Buena Cosecha Center' not only has a good time and forms friendships but also develops values of solidarity, recognizes their rights, learns self-care and care for others, and feels empowered to contribute to improving rights and responsibilities in their community. The goal is for them to leave each day looking forward to returning, knowing their presence is crucial as a protagonist in this communal effort.",
-      "highlights": ["Pedagogical content for the leaders of the care centers of the 'Buena Cosecha Program' in five volumes (Center, Cuyo, NEA, NOA, and Patagonia)."]
+      "highlights": [
+        "Pedagogical content for the leaders of the care centers of the 'Buena Cosecha Program' in five volumes (Center, Cuyo, NEA, NOA, and Patagonia)."
+      ]
     },
     {
       "name": "PROMACE - Government of the province of Jujuy",
@@ -58,7 +79,9 @@
       "startDate": "2023-02-01",
       "endDate": "2023-05-18",
       "summary": "This publication aims to propose a journey with the objectives of strengthening teaching skills to enhance teaching using Mobile Digital Classrooms, and strengthening management capabilities for school leaders to support and advise teaching and learning with the use of Mobile Digital Classrooms in the province of Jujuy, Argentina.",
-      "highlights": ["'El Aula Digital Móvil (ADM) en la enseñanza. De la exploración al proyecto.' en cinco volúmenes (Niveles: Inicial, Primario, Secundario, Terciario y Directivos)."]
+      "highlights": [
+        "'El Aula Digital Móvil (ADM) en la enseñanza. De la exploración al proyecto.' en cinco volúmenes (Niveles: Inicial, Primario, Secundario, Terciario y Directivos)."
+      ]
     }
   ],
   "volunteer": [
@@ -69,7 +92,9 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
     }
   ],
   "education": [
@@ -81,7 +106,9 @@
       "startDate": "2022-05-01",
       "endDate": "2022-11-01",
       "score": "Approved",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     },
     {
       "institution": "Universitat Pompeu Fabra (UPF), Spain",
@@ -91,7 +118,9 @@
       "startDate": "2005-10-01",
       "endDate": "2006-12-15",
       "score": "Approved",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     },
     {
       "institution": "Universidad Nacional de Quilmes (UNQ), Argentina",
@@ -101,7 +130,9 @@
       "startDate": "1993-04-01",
       "endDate": "2001-08-20",
       "score": "Approved",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     }
   ],
   "awards": [
@@ -133,137 +164,244 @@
     {
       "name": "HTML",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Web development", "Frontend"]
+      "keywords": [
+        "Web development",
+        "Frontend"
+      ]
     },
     {
       "name": "CSS",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Web development", "Frontend", "Responsive design"]
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Responsive design"
+      ]
     },
     {
       "name": "Tailwind CSS",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Frontend", "CSS Framework", "Responsive design"]
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive design"
+      ]
     },
     {
       "name": "JavaScript",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
     },
     {
       "name": "EJS",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Template engine", "JavaScript"]
+      "keywords": [
+        "Web development",
+        "Template engine",
+        "JavaScript"
+      ]
     },
     {
       "name": "TypeScript",
       "level": "&#9733; &#9733; &#9734; &#9734; &#9734;",
-      "keywords": ["Web development", "Frontend", "Backend", "JS superset"]
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Backend",
+        "JS superset"
+      ]
     },
     {
       "name": "Node JS",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Backend", "JS runtime environment"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "JS runtime environment"
+      ]
     },
     {
       "name": "PHP",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Web development", "Backend", "Server-side scripting"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Server-side scripting"
+      ]
     },
     {
       "name": "MySQL",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Database", "SQL", "Backend"]
+      "keywords": [
+        "Database",
+        "SQL",
+        "Backend"
+      ]
     },
     {
       "name": "Express.js",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Backend", "Node.js framework"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Node.js framework"
+      ]
     },
     {
       "name": "MongoDB",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Database", "NoSQL", "Backend"]
+      "keywords": [
+        "Database",
+        "NoSQL",
+        "Backend"
+      ]
     },
     {
       "name": "Sequelize",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Backend", "ORM for Node.js"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "ORM for Node.js"
+      ]
     },
     {
       "name": "Prisma",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Backend", "Database toolkit"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Database toolkit"
+      ]
     },
     {
       "name": "React",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Web development", "Frontend", "JavaScript library"]
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript library"
+      ]
     },
     {
       "name": "Astro",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Frontend", "Static site generator"]
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Static site generator"
+      ]
     },
     {
       "name": "Next.js",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Web development", "Frontend", "React framework"]
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "React framework"
+      ]
     },
     {
       "name": "p5.js",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Web development", "Frontend", "JavaScript library for creative coding"]
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript library for creative coding"
+      ]
     },
     {
       "name": "Restful API",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Web development", "API", "Backend"]
+      "keywords": [
+        "Web development",
+        "API",
+        "Backend"
+      ]
     },
     {
       "name": "Ruby",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Backend", "Scripting language"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Scripting language"
+      ]
     },
     {
       "name": "Rubygems",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Ruby", "Package manager"]
+      "keywords": [
+        "Web development",
+        "Ruby",
+        "Package manager"
+      ]
     },
     {
       "name": "Jekyll",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Static site generator", "Ruby"]
+      "keywords": [
+        "Web development",
+        "Static site generator",
+        "Ruby"
+      ]
     },
     {
       "name": "Git",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Source Code Management", "SQL", "Backend"]
+      "keywords": [
+        "Source Code Management",
+        "SQL",
+        "Backend"
+      ]
     },
     {
       "name": "GitHub",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Version control", "Collaboration platform"]
+      "keywords": [
+        "Version control",
+        "Collaboration platform"
+      ]
     },
     {
       "name": "Markdown",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Documentation", "Text formatting"]
+      "keywords": [
+        "Documentation",
+        "Text formatting"
+      ]
     },
     {
       "name": "MDX",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
-      "keywords": ["Web development", "Markdown", "React components"]
+      "keywords": [
+        "Web development",
+        "Markdown",
+        "React components"
+      ]
     },
     {
       "name": "GitHub Flavored Markdown",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Documentation", "Text formatting", "GitHub"]
+      "keywords": [
+        "Documentation",
+        "Text formatting",
+        "GitHub"
+      ]
     },
     {
       "name": "Agile methodologies",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
-      "keywords": ["Project management", "Collaborative development"]
+      "keywords": [
+        "Project management",
+        "Collaborative development"
+      ]
     }
   ],
   "languages": [
@@ -275,7 +413,10 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ],
   "references": [
@@ -286,31 +427,128 @@
   ],
   "projects": [
     {
-      "name": "Portfolio minim",
+      "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias. Segunda cohorte. Cursos 1 y 2.",
+      "projectImage": "resume/projects/project-12.png",
       "isActive": true,
-      "startDate": "2024-02-09",
+      "startDate": "20223-10-24",
+      "endDate": "2023-11-03",
+      "description": "This is a curricular proposal designed by the Gender Program in conjunction with the National Council for Scientific and Technical Research (CONICET), the National Agency for the Promotion of Scientific Research, Technological Development and Innovation (R&D Agency ), the National Commission for Space Activities (CONAE) and the National Genetic Data Bank (BNDG), within the framework of the Replicator Training Program “Ley Micaela” of the Ministry of Women, Gender and Diversity of the Argentina Republic.",
+      "highlights": [
+        "Moodle",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "url": "https://capacitacion.conicet.gov.ar/"
+    },
+    {
+      "name": "Transformación digital en la educación. El modelo de las Aulas Digitales Móviles en Jujuy, Argentina",
+      "projectImage": "resume/projects/caf-01.png",
+      "isActive": true,
+      "startDate": "2023-02-09",
       "endDate": "",
-      "description": "A minimalist portfolio",
-      "highlights": ["Second project with Astro"],
+      "description": "Graphic & layout design",
+      "highlights": [
+        "InDesign",
+        "Photoshop",
+        "Illustrator"
+      ],
       "url": "https://knnv-ar.github.io/portfolio-json/"
     },
     {
-      "name": "SpaceX launches",
+      "name": "Contenidos pedagógicos para los referentes de los centros de cuidado del \"Programa Buena Cosecha\"",
+      "projectImage": "resume/projects/ilo-01.png",
       "isActive": true,
-      "startDate": "2024-02-05",
-      "endDate": "2024-02-08",
-      "description": "My first Astro project with SSG rendering. ",
-      "highlights": ["Just a intro to Astro +transition:persist"],
-      "url": "https://knnv-ar.github.io/astro-rocket/"
+      "startDate": "2023-02-09",
+      "endDate": "",
+      "description": "Graphic & layout design",
+      "highlights": [
+        "InDesign",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "url": "https://knnv-ar.github.io/portfolio-json/"
     },
     {
-      "name": "la-piscine - digital art gallery",
+      "name": "El Aula Digital Móvil (ADM) en la enseñanza. De la exploración al proyecto.",
+      "projectImage": "resume/projects/promace-01.png",
+      "isActive": true,
+      "startDate": "2023-02-09",
+      "endDate": "",
+      "description": "Graphic & layout design",
+      "highlights": [
+        "InDesign",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "url": "https://knnv-ar.github.io/portfolio-json/"
+    },
+    {
+      "name": "<la-piscine> v2",
+      "projectImage": "resume/projects/project-13.png",
       "isActive": true,
       "startDate": "2022-10-24",
       "endDate": "2022-11-03",
       "description": "<la-piscine> is a digital art gallery that showcases the works created by students who took Multimedia Arts subjects levels 1 and 4, under the guidance of Professor Lacabanne, as part of the Multimedia Arts degree at the A.T.A.M. of the National University of the Arts.",
-      "highlights": ["AM1 students art gallery starting 2022."],
+      "highlights": [
+        "Ruby",
+        "Rubygems",
+        "Jekyll"
+      ],
       "url": "https://knnv-ar.github.io/la-piscine/"
+    },
+    {
+      "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias.",
+      "projectImage": "resume/projects/project-12.png",
+      "isActive": true,
+      "startDate": "2022-10-24",
+      "endDate": "2022-11-03",
+      "description": "This is a curricular proposal designed by the Gender Program in conjunction with the National Council for Scientific and Technical Research (CONICET), the National Agency for the Promotion of Scientific Research, Technological Development and Innovation (R&D Agency ), the National Commission for Space Activities (CONAE) and the National Genetic Data Bank (BNDG), within the framework of the Replicator Training Program “Ley Micaela” of the Ministry of Women, Gender and Diversity of the Argentina Republic.",
+      "highlights": [
+        "Moodle",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "url": "https://capacitacion.conicet.gov.ar/"
+    },
+    {
+      "name": "<la-piscine> v1",
+      "projectImage": "resume/projects/la-piscine-v1.png",
+      "isActive": true,
+      "startDate": "2022-10-24",
+      "endDate": "2022-11-03",
+      "description": "<la-piscine> is a digital art gallery that showcases the works created by students who took Multimedia Arts subjects levels 1 and 4, under the guidance of Professor Lacabanne, as part of the Multimedia Arts degree at the A.T.A.M. of the National University of the Arts.",
+      "highlights": [
+        "Ruby",
+        "Rubygems",
+        "Jekyll"
+      ],
+      "url": "https://knnv-ar.github.io/la-piscine/"
+    },
+    {
+      "name": "Portfolio minim",
+      "projectImage": "resume/projects/project-13.png",
+      "isActive": true,
+      "startDate": "2024-02-09",
+      "endDate": "",
+      "description": "A minimalist portfolio",
+      "highlights": [
+        "Second project with Astro"
+      ],
+      "url": "https://knnv-ar.github.io/portfolio-json/"
+    },
+    {
+      "name": "SpaceX launches",
+      "projectImage": "resume/projects/project-12.png",
+      "isActive": true,
+      "startDate": "2024-02-05",
+      "endDate": "2024-02-08",
+      "description": "My first Astro project with SSG rendering. ",
+      "highlights": [
+        "Just a intro to Astro +transition:persist"
+      ],
+      "url": "https://knnv-ar.github.io/astro-rocket/"
     }
   ]
 }

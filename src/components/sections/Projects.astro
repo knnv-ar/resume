@@ -3,35 +3,37 @@ import LinkedIn from "@/icons/LinkedIn.astro";
 import Section from "../Section.astro";
 
 import { projects } from "@cv";
+//import { Image } from "astro:assets";
 ---
 
 <Section title="Projects">
   <ul>
     {
-      projects.map(({ name, url, description, highlights, isActive }) => {
-        return (
-          <li>
-            <article>
-              <header>
-                <h3>
-                  <a href={url} title={`Visit the project ${name}`}>
-                    {name}
-                  </a>
-                  {
-                    isActive && <span>&bull;</span>
-                  }
-                </h3>
-                <p>{description}</p>
-              </header>
-              <footer>
-                {highlights.map((highlight) => {
-                  return <span>{highlight}</span>;
-                })}
-              </footer>
-            </article>
-          </li>
-        );
-      })
+      projects.map(
+        ({ name, projectImage, url, description, highlights, isActive }) => {
+          return (
+            <li>
+              <article>
+                <header>
+                  <h3>
+                    <a href={url} title={`Visit the project ${name}`}>
+                      {name}
+                    </a>
+                    {isActive && <span>&bull;</span>}
+                  </h3>
+                  <p>{description}</p>
+                  <img src={projectImage} alt="" />
+                </header>
+                <footer>
+                  {highlights.map((highlight) => {
+                    return <span>{highlight}</span>;
+                  })}
+                </footer>
+              </article>
+            </li>
+          );
+        }
+      )
     }
   </ul>
 </Section>
@@ -71,9 +73,13 @@ import { projects } from "@cv";
   }
 
   article p {
-    font-size: .75rem;
+    font-size: 0.75rem;
     line-height: 1.2rem;
     margin-bottom: 4px;
+  }
+
+  article img {
+    width: 100%;
   }
 
   article h3 span {
