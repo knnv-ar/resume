@@ -428,25 +428,25 @@
   "projects": [
     {
       "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias. Segunda cohorte. Cursos 1 y 2.",
-      "projectImage": "resume/projects/project-12.png",
+      "projectImage": "/resume/projects/project-12.png",
       "isActive": true,
-      "startDate": "20223-10-24",
-      "endDate": "2023-11-03",
-      "description": "This is a curricular proposal designed by the Gender Program in conjunction with the National Council for Scientific and Technical Research (CONICET), the National Agency for the Promotion of Scientific Research, Technological Development and Innovation (R&D Agency ), the National Commission for Space Activities (CONAE) and the National Genetic Data Bank (BNDG), within the framework of the Replicator Training Program “Ley Micaela” of the Ministry of Women, Gender and Diversity of the Argentina Republic.",
+      "startDate": "2023-11-24",
+      "endDate": "2024-01-03",
+      "description": "This is a two-course curricular proposal designed by the Gender Program in conjunction with the National Council for Scientific and Technical Research (CONICET), the National Agency for the Promotion of Scientific Research, Technological Development and Innovation (R&D Agency ), the National Commission for Space Activities (CONAE) and the National Genetic Data Bank (BNDG), within the framework of the Replicator Training Program “Ley Micaela” of the Ministry of Women, Gender and Diversity of the Argentina Republic. The first course explores \"How does a gender perspective improve research?\" and the second on on \"How does the gender perspective improve evaluation processes?\"",
       "highlights": [
         "Moodle",
         "HTML",
         "CSS",
         "JavaScript"
       ],
-      "url": "https://capacitacion.conicet.gov.ar/"
+      "url": "https://mincyt.uvq.edu.ar"
     },
     {
       "name": "Transformación digital en la educación. El modelo de las Aulas Digitales Móviles en Jujuy, Argentina",
-      "projectImage": "resume/projects/caf-01.png",
+      "projectImage": "/resume/projects/caf-01.png",
       "isActive": true,
-      "startDate": "2023-02-09",
-      "endDate": "",
+      "startDate": "2023-05-09",
+      "endDate": "2023-10-27",
       "description": "Graphic & layout design",
       "highlights": [
         "InDesign",
@@ -457,10 +457,10 @@
     },
     {
       "name": "Contenidos pedagógicos para los referentes de los centros de cuidado del \"Programa Buena Cosecha\"",
-      "projectImage": "resume/projects/ilo-01.png",
+      "projectImage": "/resume/projects/ilo-01.png",
       "isActive": true,
       "startDate": "2023-02-09",
-      "endDate": "",
+      "endDate": "2023-08-07",
       "description": "Graphic & layout design",
       "highlights": [
         "InDesign",
@@ -474,7 +474,7 @@
       "projectImage": "/resume/projects/promace-01.png",
       "isActive": true,
       "startDate": "2023-02-09",
-      "endDate": "",
+      "endDate": "2023-04-26",
       "description": "Graphic & layout design",
       "highlights": [
         "InDesign",
