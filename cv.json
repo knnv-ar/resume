@@ -471,7 +471,7 @@
     },
     {
       "name": "El Aula Digital Móvil (ADM) en la enseñanza. De la exploración al proyecto.",
-      "projectImage": "resume/projects/promace-01.png",
+      "projectImage": "/resume/projects/promace-01.png",
       "isActive": true,
       "startDate": "2023-02-09",
       "endDate": "",
@@ -485,7 +485,7 @@
     },
     {
       "name": "<la-piscine> v2",
-      "projectImage": "resume/projects/project-13.png",
+      "projectImage": "/resume/projects/project-13.png",
       "isActive": true,
       "startDate": "2022-10-24",
       "endDate": "2022-11-03",
@@ -499,7 +499,7 @@
     },
     {
       "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias.",
-      "projectImage": "resume/projects/project-12.png",
+      "projectImage": "/resume/projects/project-12.png",
       "isActive": true,
       "startDate": "2022-10-24",
       "endDate": "2022-11-03",
@@ -514,7 +514,7 @@
     },
     {
       "name": "<la-piscine> v1",
-      "projectImage": "resume/projects/la-piscine-v1.png",
+      "projectImage": "/resume/projects/la-piscine-v1.png",
       "isActive": true,
       "startDate": "2022-10-24",
       "endDate": "2022-11-03",
@@ -528,7 +528,7 @@
     },
     {
       "name": "Portfolio minim",
-      "projectImage": "resume/projects/project-13.png",
+      "projectImage": "/resume/projects/project-13.png",
       "isActive": true,
       "startDate": "2024-02-09",
       "endDate": "",
@@ -540,7 +540,7 @@
     },
     {
       "name": "SpaceX launches",
-      "projectImage": "resume/projects/project-12.png",
+      "projectImage": "/resume/projects/project-12.png",
       "isActive": true,
       "startDate": "2024-02-05",
       "endDate": "2024-02-08",
