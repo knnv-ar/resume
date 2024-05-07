@@ -427,12 +427,13 @@
   ],
   "projects": [
     {
-      "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias. Segunda cohorte. Cursos 1 y 2.",
-      "projectImage": "/resume/projects/project-12.png",
+      "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias. Segunda cohorte.",
+      "position": "Graphic & layout designer",
+      "projectImage": "/resume/projects/micaela-02.png",
       "isActive": true,
       "startDate": "2023-11-24",
       "endDate": "2024-01-03",
-      "description": "This is a two-course curricular proposal designed by the Gender Program in conjunction with the National Council for Scientific and Technical Research (CONICET), the National Agency for the Promotion of Scientific Research, Technological Development and Innovation (R&D Agency ), the National Commission for Space Activities (CONAE) and the National Genetic Data Bank (BNDG), within the framework of the Replicator Training Program “Ley Micaela” of the Ministry of Women, Gender and Diversity of the Argentina Republic. The first course explores \"How does a gender perspective improve research?\" and the second on on \"How does the gender perspective improve evaluation processes?\"",
+      "description": "This is a two-course curricular proposal. The first course explores \"How does a gender perspective improve research?\" and the second on on \"How does the gender perspective improve evaluation processes?\"",
       "highlights": [
         "Moodle",
         "HTML",
@@ -443,20 +444,22 @@
     },
     {
       "name": "Transformación digital en la educación. El modelo de las Aulas Digitales Móviles en Jujuy, Argentina",
+      "position": "Graphic & layout designer",
       "projectImage": "/resume/projects/caf-01.png",
       "isActive": true,
       "startDate": "2023-05-09",
       "endDate": "2023-10-27",
-      "description": "Graphic & layout design",
+      "description": "Two-volume digital publication for PROMACE, Government of the province of Jujuy, Argentina. The first one is a \"Dissemination piece\" (26 pp.) and the second one a \"Final report\" (77 pp.)",
       "highlights": [
         "InDesign",
         "Photoshop",
         "Illustrator"
       ],
-      "url": "https://knnv-ar.github.io/portfolio-json/"
+      "url": "https://scioteca.caf.com/handle/123456789/2159"
     },
     {
       "name": "Contenidos pedagógicos para los referentes de los centros de cuidado del \"Programa Buena Cosecha\"",
+      "position": "Graphic & layout designer",
       "projectImage": "/resume/projects/ilo-01.png",
       "isActive": true,
       "startDate": "2023-02-09",
@@ -467,10 +470,11 @@
         "Photoshop",
         "Illustrator"
       ],
-      "url": "https://knnv-ar.github.io/portfolio-json/"
+      "url": "https://www.ilo.org/es/resource/news/mas-de-cien-docentes-del-programa-buena-cosecha-se-capacitaron-en-politicas"
     },
     {
       "name": "El Aula Digital Móvil (ADM) en la enseñanza. De la exploración al proyecto.",
+      "position": "Graphic & layout designer",
       "projectImage": "/resume/projects/promace-01.png",
       "isActive": true,
       "startDate": "2023-02-09",
@@ -481,10 +485,11 @@
         "Photoshop",
         "Illustrator"
       ],
-      "url": "https://knnv-ar.github.io/portfolio-json/"
+      "url": "https://educacion.jujuy.gob.ar/2023/06/16/promace-capacitacion-sobre-aulas-digitales-moviles/"
     },
     {
       "name": "<la-piscine> v2",
+      "position": "Web developer",
       "projectImage": "/resume/projects/project-13.png",
       "isActive": true,
       "startDate": "2022-10-24",
@@ -499,6 +504,7 @@
     },
     {
       "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias.",
+      "position": "Graphic & layout designer",
       "projectImage": "/resume/projects/project-12.png",
       "isActive": true,
       "startDate": "2022-10-24",
@@ -514,41 +520,74 @@
     },
     {
       "name": "<la-piscine> v1",
+      "position": "Graphic & layout designer",
       "projectImage": "/resume/projects/la-piscine-v1.png",
       "isActive": true,
-      "startDate": "2022-10-24",
-      "endDate": "2022-11-03",
+      "startDate": "2020-09-01",
+      "endDate": "2021-12-16",
       "description": "<la-piscine> is a digital art gallery that showcases the works created by students who took Multimedia Arts subjects levels 1 and 4, under the guidance of Professor Lacabanne, as part of the Multimedia Arts degree at the A.T.A.M. of the National University of the Arts.",
       "highlights": [
         "Ruby",
         "Rubygems",
         "Jekyll"
       ],
-      "url": "https://knnv-ar.github.io/la-piscine/"
+      "url": "https://am1-lacabanne.atamvirtual.com.ar/"
     },
     {
-      "name": "Portfolio minim",
-      "projectImage": "/resume/projects/project-13.png",
-      "isActive": true,
-      "startDate": "2024-02-09",
-      "endDate": "",
-      "description": "A minimalist portfolio",
+      "name": "Observatorio Cono Sur de Defensa y Fuerzas Armadas",
+      "position": "Full stack web developer",
+      "projectImage": "/resume/projects/project-11.png",
+      "isActive": false,
+      "startDate": "2004-02-09",
+      "endDate": "2004-02-09",
+      "description": "First prototype for the Defense and Armed Forces \"Southern Cone Observatory\" Program in Universidad Nacional de Quilmes.",
       "highlights": [
-        "Second project with Astro"
+        "Classic ASP",
+        "MySQL",
+        "HTML",
+        "CSS"
       ],
-      "url": "https://knnv-ar.github.io/portfolio-json/"
+      "url": "https://github.com/knnv-ar/cono-sur"
     },
     {
-      "name": "SpaceX launches",
-      "projectImage": "/resume/projects/project-12.png",
+      "name": "Casus Belli Corp. v2",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/project-10.png",
       "isActive": true,
-      "startDate": "2024-02-05",
-      "endDate": "2024-02-08",
-      "description": "My first Astro project with SSG rendering. ",
+      "startDate": "2001-12-01",
+      "endDate": "2001-11-01",
+      "description": "A restylized version of the old (one year) portfolio. Actually neat and minified.",
       "highlights": [
-        "Just a intro to Astro +transition:persist"
+        "HTML"
       ],
-      "url": "https://knnv-ar.github.io/astro-rocket/"
+      "url": "https://knnv-ar.github.io/casus/"
+    },
+    {
+      "name": "Rembrandt, the artist",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/project-09.png",
+      "isActive": true,
+      "startDate": "2001-09-01",
+      "endDate": "2001-08-01",
+      "description": "A website in homage to Rembrandt van Rijn. Just experimenting with embedded sound, midi and video files.",
+      "highlights": [
+        "HTML"
+      ],
+      "url": "https://knnv-ar.github.io/rembrandt/"
+    },
+    {
+      "name": "III Jornadas \"Imaginarios Urbanos\"",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/project-08.png",
+      "isActive": true,
+      "startDate": "2001-03-01",
+      "endDate": "2001-04-01",
+      "description": "Proceedings of the Third Conference on \"Urban Imaginaries\": presentations and conferences, Specialization Course in History and Criticism of Architecture and Urbanism, Postgraduate Secretary and Institutional Relations. FADU-UBA. September 14, 15 and 16, 2000.",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://knnv-ar.github.io/tjiu/"
     }
   ]
 }

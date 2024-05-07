@@ -10,7 +10,15 @@ import { projects } from "@cv";
   <ul>
     {
       projects.map(
-        ({ name, projectImage, url, description, highlights, isActive }) => {
+        ({
+          name,
+          position,
+          projectImage,
+          url,
+          description,
+          highlights,
+          isActive,
+        }) => {
           return (
             <li>
               <article>
@@ -21,8 +29,9 @@ import { projects } from "@cv";
                     </a>
                     {isActive && <span>&bull;</span>}
                   </h3>
-                  <p>{description}</p>
+                  <p>{position}</p>
                   <img src={projectImage} alt="" />
+                  <p>{description}</p>
                 </header>
                 <footer>
                   {highlights.map((highlight) => {
