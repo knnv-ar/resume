@@ -51,36 +51,52 @@
       ]
     },
     {
-      "name": "CAF- Development Bank of Latin America and the Caribbean",
-      "position": "Graphic & layout designer",
+      "name": "Universidad Nacional de Quilmes",
+      "position": "Director of the Executing Unit \"Audiovisual analysis, production and realization\"",
       "url": "https://scioteca.caf.com/handle/123456789/2159",
-      "startDate": "2023-08-01",
-      "endDate": "2023-10-30",
-      "summary": "The document summarizes the experience of Mobile Digital Classrooms in Jujuy province and offers recommendations for other educational systems looking to implement similar initiatives using digital technologies. It provides insights into the digital educational landscape, considerations for the transformation of educational systems, and addresses specific challenges in Jujuy across dimensions such as digital infrastructure, governance, pedagogical models, digital content, and teacher training. The document also discusses the implementation of the Mobile Digital Classroom model, the design of a training program for educators, and a survey of potential digital educational solutions for integration in the province of Jujuy.",
+      "startDate": "2021-04-01",
+      "endDate": "2024-12-31",
+      "summary": "The EU is recognized for its advice to educational, NGOs, social and cultural institutions on pedagogical strategies and planning in audiovisual communication. And has a strong territory presence for its production of audiovisual assets in different formats and supports.",
       "highlights": [
-        "Katz, R., Lugo, M. T., Álvarez, M., & Lolácono, F. (2023, October 30). Transformación digital en la  educación: el caso de la provincia de Jujuy, Argentina. Distrito Capital: CAF- banco de desarrollo de América Latina y el Caribe. Retrieved from https://scioteca.caf.com/handle/123456789/2159"
+        "UNQTv"
       ]
     },
     {
-      "name": "ILO - International Labour Organization",
-      "position": "Graphic & layout designer",
+      "name": "Universidad Nacional de las Artes",
+      "position": "General Director of the Transdepartmental Area of Multimedia Arts",
       "url": "https://www.argentina.gob.ar/sites/default/files/fasciculo_cuyo-_libro.pdf",
-      "startDate": "2023-05-01",
-      "endDate": "2023-08-01",
-      "summary": "The main objective of the publication is to ensure that every child and teenager at the 'Buena Cosecha Center' not only has a good time and forms friendships but also develops values of solidarity, recognizes their rights, learns self-care and care for others, and feels empowered to contribute to improving rights and responsibilities in their community. The goal is for them to leave each day looking forward to returning, knowing their presence is crucial as a protagonist in this communal effort.",
+      "startDate": "2011-11-26",
+      "endDate": "2021-06-15",
+      "summary": "General Director of the Transdepartamental Area that offers an undergraduate degree and three graduate degrees.",
       "highlights": [
-        "Pedagogical content for the leaders of the care centers of the 'Buena Cosecha Program' in five volumes (Center, Cuyo, NEA, NOA, and Patagonia)."
+        "Multimedia Arts",
+        "University Institution Management"
       ]
     },
     {
-      "name": "PROMACE - Government of the province of Jujuy",
-      "position": "Graphic & layout designer",
-      "url": "https://drive.google.com/file/d/1xugScxqh9Ah2ISUF2YeOKxfw-uARRWvA/view?usp=sharing",
-      "startDate": "2023-02-01",
-      "endDate": "2023-05-18",
-      "summary": "This publication aims to propose a journey with the objectives of strengthening teaching skills to enhance teaching using Mobile Digital Classrooms, and strengthening management capabilities for school leaders to support and advise teaching and learning with the use of Mobile Digital Classrooms in the province of Jujuy, Argentina.",
+      "name": "Universidad Nacional de las Artes",
+      "position": "University Professor",
+      "url": "",
+      "startDate": "2010-05-20",
+      "endDate": "2024-12-31",
+      "summary": "Tenured Full Professor. Actually teaches Multimedia Arts levels 1 and 4. Previously teached Multimedia Arts level 2, and Computer Art level 1.",
       "highlights": [
-        "'El Aula Digital Móvil (ADM) en la enseñanza. De la exploración al proyecto.' en cinco volúmenes (Niveles: Inicial, Primario, Secundario, Terciario y Directivos)."
+        "Multimedia Arts level 1",
+        "Multimedia Arts level 4"
+      ]
+    },
+    {
+      "name": "Universidad Nacional Quilmes",
+      "position": "University Professor",
+      "url": "",
+      "startDate": "2010-10-11",
+      "endDate": "2024-12-31",
+      "summary": "Tenured Associate Professor. Actually teaches Arts and Aesthetics of the 21st Century. Previously teached Workshop for the Integration of Generative Image and Sound Technologies., Multimedia Production Workshop and Development and Administration of Content Management Systems.",
+      "highlights": [
+        "Arts and Aesthetics of the 21st Century",
+        "Integration of Generative Image and Sound Technologies Workshop",
+        "Multimedia Production Workshop",
+        "Development and Administration of Content Management Systems"
       ]
     }
   ],
@@ -438,7 +454,7 @@
         "Moodle",
         "HTML",
         "CSS",
-        "JavaScript"
+        "JS"
       ],
       "url": "https://mincyt.uvq.edu.ar"
     },
@@ -514,7 +530,7 @@
         "Moodle",
         "HTML",
         "CSS",
-        "JavaScript"
+        "JS"
       ],
       "url": "https://capacitacion.conicet.gov.ar/"
     },
@@ -556,11 +572,12 @@
       "isActive": true,
       "startDate": "2001-12-01",
       "endDate": "2001-11-01",
-      "description": "A restylized version of the old (one year) portfolio. Actually neat and minified.",
+      "description": "A restylized version of my old (one year) portfolio. Actually neat and minified.",
       "highlights": [
-        "HTML"
+        "HTML",
+        "CSS"
       ],
-      "url": "https://knnv-ar.github.io/casus/"
+      "url": "https://github.com/knnv-ar/casus/"
     },
     {
       "name": "Rembrandt, the artist",
@@ -571,9 +588,10 @@
       "endDate": "2001-08-01",
       "description": "A website in homage to Rembrandt van Rijn. Just experimenting with embedded sound, midi and video files.",
       "highlights": [
-        "HTML"
+        "HTML",
+        "CSS"
       ],
-      "url": "https://knnv-ar.github.io/rembrandt/"
+      "url": "https://github.com/knnv-ar/rembrandt/"
     },
     {
       "name": "III Jornadas \"Imaginarios Urbanos\"",
@@ -587,7 +605,107 @@
         "HTML",
         "CSS"
       ],
-      "url": "https://knnv-ar.github.io/tjiu/"
+      "url": "https://github.com/knnv-ar/tjiu/"
+    },
+    {
+      "name": "Priority Research Program \"Aldea 21\" v2",
+      "position": "Full stack web developer",
+      "projectImage": "/resume/projects/project-07.png",
+      "isActive": false,
+      "startDate": "2001-02-01",
+      "endDate": "2001-03-25",
+      "description": "Dynamic website (later called web 2.0) from 2001 for Priority Research Program \"Aldea 21\" directed by Esther Schiavo at Universidad Nacional de Quilmes.",
+      "highlights": [
+        "Classic ASP",
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://github.com/knnv-ar/aldea21"
+    },
+    {
+      "name": "\"mol\" municipio on line (prototype)",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/project-06.png",
+      "isActive": true,
+      "startDate": "2001-07-01",
+      "endDate": "2001-08-01",
+      "description": "Prototype for a project called \"Municipios On Line\" for Priority Research Program \"Aldea 21\" directed by Esther Schiavo at Universidad Nacional de Quilmes.",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://github.com/knnv-ar/mol-prototype/"
+    },
+    {
+      "name": "\"mol\" municipio on line (first draft)",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/project-05.png",
+      "isActive": true,
+      "startDate": "2001-05-01",
+      "endDate": "2001-04-01",
+      "description": "Prototype for a Quilmes Town Hall website proposal (municipio on line). Be aware: contains frames!",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://github.com/knnv-ar/quilmes-town-hall"
+    },
+    {
+      "name": "Municipalidad de Quilmes v1",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/project-04.png",
+      "isActive": true,
+      "startDate": "2001-05-01",
+      "endDate": "2001-04-01",
+      "description": "Homepage's first draft for a project called \"Municipalidad de Quilmes\" for Priority Research Program \"Aldea 21\" directed by Esther Schiavo at Universidad Nacional de Quilmes.",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://github.com/knnv-ar/mol-sketch/"
+    },
+    {
+      "name": "Casus Belli Corp. v1",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/project-03.png",
+      "isActive": true,
+      "startDate": "1999-07-01",
+      "endDate": "2000-03-01",
+      "description": "First personal studio website.",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://github.com/knnv-ar/casus-old"
+    },
+    {
+      "name": "La ciudad en.red.ada",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/project-02.png",
+      "isActive": false,
+      "startDate": "1999-07-01",
+      "endDate": "2000-02-21",
+      "description": "Prototype of a digital multimedia magazine made with HTML, CSS and Macromedia Flash for Priority Research Program \"Aldea 21\".",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "Macromedia Flash"
+      ],
+      "url": "https://github.com/knnv-ar/enredada"
+    },
+    {
+      "name": "Priority Research Program \"Aldea 21\" v1",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/project-01.png",
+      "isActive": true,
+      "startDate": "1999-10-01",
+      "endDate": "1999-12-22",
+      "description": "My first website development from 1999 for Priority Research Program \"Aldea 21\" directed by Esther Schiavo at Universidad Nacional de Quilmes.",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://github.com/knnv-ar/aldea21-old"
     }
   ]
 }
