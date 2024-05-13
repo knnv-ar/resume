@@ -550,6 +550,24 @@
       "url": "https://am1-lacabanne.atamvirtual.com.ar/"
     },
     {
+      "name": "metaScores",
+      "position": "Hypermedia app developer",
+      "projectImage": "/resume/projects/metascores.png",
+      "isActive": true,
+      "startDate": "2005-09-01",
+      "endDate": "2004-04-01",
+      "description": "A collection of 4 hipermedia scores for contemporary musical analysis.",
+      "highlights": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Audition",
+        "Adobe Flash",
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://github.com/knnv-ar/metascores"
+    },
+    {
       "name": "Observatorio Cono Sur de Defensa y Fuerzas Armadas",
       "position": "Full stack web developer",
       "projectImage": "/resume/projects/project-11.png",
@@ -682,7 +700,7 @@
       "name": "La ciudad en.red.ada",
       "position": "Frontend web developer",
       "projectImage": "/resume/projects/project-02.png",
-      "isActive": false,
+      "isActive": true,
       "startDate": "1999-07-01",
       "endDate": "2000-02-21",
       "description": "Prototype of a digital multimedia magazine made with HTML, CSS and Macromedia Flash for Priority Research Program \"Aldea 21\".",
