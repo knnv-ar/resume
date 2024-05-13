@@ -98,6 +98,95 @@
         "Multimedia Production Workshop",
         "Development and Administration of Content Management Systems"
       ]
+    },
+    {
+      "name": "Universidad Nacional de las Artes",
+      "position": "University Professor",
+      "url": "",
+      "startDate": "2007-04-01",
+      "endDate": "2010-05-19",
+      "summary": "Adjunct Professor. \"Multimedia Design level 3\" and \"Multimedia Production Workshop level 3\"",
+      "highlights": [
+        "Multimedia Design level 3",
+        "Multimedia Production Workshop level 3",
+        "Multimedia Design level 6",
+        "Multimedia Production Workshop level 5",
+        "Multimedia Production Workshop level 6",
+        "Applied Computing level 2",
+        "Applied Computing level 1",
+        "Multimedia Arts level 2",
+        "Multimedia Arts level 4"
+      ]
+    },
+    {
+      "name": "Universidad Nacional Quilmes",
+      "position": "University Professor",
+      "url": "",
+      "startDate": "2004-04-01",
+      "endDate": "2010-10-10",
+      "summary": "Adjunct Professor. \"Multimedia Production Workshop\"",
+      "highlights": [
+        "Multimedia Production Workshop"
+      ]
+    },
+    {
+      "name": "Universidad Nacional Quilmes",
+      "position": "University Professor",
+      "url": "",
+      "startDate": "2001-04-01",
+      "endDate": "2004-03-31",
+      "summary": "Assistant Professor. \"Multimedia Production Workshop\"",
+      "highlights": [
+        "Multimedia Production Workshop"
+      ]
+    },
+    {
+      "name": "Instituto Blas Pascal",
+      "position": "Professor",
+      "url": "",
+      "startDate": "1999-03-01",
+      "endDate": "2001-12-31",
+      "summary": "Author of the planning, layout and implementation of the \"Web Design developer\" course.",
+      "highlights": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "HTML",
+        "CSS",
+        "Macromedia Dreamweaver"
+      ]
+    },
+    {
+      "name": "Programa Prioritario de Investigación Aldea XXI, Universidad Nacional de Quilmes",
+      "position": "Research assistant",
+      "url": "",
+      "startDate": "1999-03-01",
+      "endDate": "2001-12-31",
+      "summary": "I developed and research on static and dinamic website, interactive CD-ROMs and several graphic design works.",
+      "highlights": [
+        "Websites",
+        "CD-ROMs"
+      ]
+    },
+    {
+      "name": "Haciendo el Futuro",
+      "position": "Graphic designer, fullstack & hypermedia developer",
+      "url": "",
+      "startDate": "1998-03-01",
+      "endDate": "2000-11-30",
+      "summary": "I developed static and dinamic website, interactive CD-ROMs and several graphic design works.",
+      "highlights": [
+        "Websites",
+        "CD-ROMs"
+      ]
+    },
+    {
+      "name": "Micro Support Informatica S.R.L.",
+      "position": "Graphic designer and print assistant",
+      "url": "",
+      "startDate": "1992-03-01",
+      "endDate": "1996-06-31",
+      "summary": "Diseñador gráfico de folletería, formularios continuos y papelería comercial.",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -550,6 +639,48 @@
       "url": "https://am1-lacabanne.atamvirtual.com.ar/"
     },
     {
+      "name": "¿Qué entendemos por interactividad?",
+      "position": "Article author",
+      "projectImage": "/resume/projects/interactividad.png",
+      "isActive": true,
+      "startDate": "2008-11-03",
+      "endDate": "2010-04-17",
+      "description": "This work attempts to present a genealogy about the term computer-based interactivity and other associated terms such as interaction and interactive. Its content is presented mainly with the copy>paste technique whose origin is found in various proposals by leading researchers mainly from the fields of sociology, communication and computing. Given the transdisciplinary nature of interactive art, I believe it is important to review these approaches with the aim of beginning to propose some elements that help to think about a kind of aesthetics of interactivity, which allows us to reflect on a work of new media, both from the level of poiesis as that of aesthesis.",
+      "highlights": [
+        "Mass-media communication",
+        "computer-based interactivity"
+      ],
+      "url": "https://www.academia.edu/475633/_Qu%C3%A9_entendemos_por_interactividad"
+    },
+    {
+      "name": "El palacio de los destinos: pensar una experiencia de RV",
+      "position": "Article author",
+      "projectImage": "/resume/projects/palacio.png",
+      "isActive": true,
+      "startDate": "2007-07-23",
+      "endDate": "2008-10-01",
+      "description": "We will focus on “The palace of destinations”, an artistic installation of Virtual Reality (VR) carried out in 2006 by the artists Romina Carrasco (Ecuador), Raúl Federico Lacabanne (Argentina), Mónica Ruiz (Mexico) and Jorge Luis Suárez Pepe (Argentina). It was carried out as a final project for the Virtual Reality chair belonging to the Master in Digital Arts at the Pompeu Fabra University, supervised and evaluated by professors Narcís Parés, Roc Parés Burguès and Joan Soler-Adillon. We will now detail and explain the script and the proposed interaction design, the model of virtual subjectivity and virtual environment chosen and, finally, the development phases according to the approach strategy based on interaction.",
+      "highlights": [
+        "Virtual reality installation",
+        "Digital art"
+      ],
+      "url": "https://www.academia.edu/298485/El_Palacio_de_los_Destinos_pensar_una_experiencia_de_Realidad_Virtual"
+    },
+    {
+      "name": "Diseño de presentaciones multimedia dinámicas para el análisis de la música electroacústica",
+      "position": "Article author",
+      "projectImage": "/resume/projects/presentaciones.png",
+      "isActive": true,
+      "startDate": "2004-03-01",
+      "endDate": "2006-05-01",
+      "description": "The present work aims to expose some problems related to the design and development of multimedia presentations applied to the analysis of electroacoustic music. A case study and the production methodology used in carrying it out will be shown. Finally, a series of proposals to improve the presentation will be proposed for a second version of it.",
+      "highlights": [
+        "Multimedia presentations",
+        "Musical analisys"
+      ],
+      "url": "https://www.academia.edu/76101644/Dise%C3%B1o_de_presentaciones_multimedia_din%C3%A1micas_para_el_an%C3%A1lisis_de_la_m%C3%BAsica_electroac%C3%BAstica"
+    },
+    {
       "name": "metaScores",
       "position": "Hypermedia app developer",
       "projectImage": "/resume/projects/metascores.png",
@@ -582,6 +713,20 @@
         "CSS"
       ],
       "url": "https://github.com/knnv-ar/cono-sur"
+    },
+    {
+      "name": "Modelos de representación de color en aplicaciones de tratamiento de imágenes digitales",
+      "position": "Article author",
+      "projectImage": "/resume/projects/modelos.png",
+      "isActive": true,
+      "startDate": "2002-12-01",
+      "endDate": "2002-12-10",
+      "description": "When we work with digital images (whether for artistic or commercial purposes), it is necessary to indicate which color representation model is going to be used in them, since the chromatic spectral ranges of the various supports present differences, which can even reach be very accentuated. We have selected as case studies the color representation models found in the main commercial image processing software: the HSB, HSV, HSL, RGB, CMY, CMYK and CIE L*a*b* models. We propose to describe the operation of each type of color representation model and define the most appropriate types of application for these models depending on the production processes they will receive and the material support of the final image.",
+      "highlights": [
+        "Color modes",
+        "Color management"
+      ],
+      "url": "https://www.academia.edu/119021175/Modelos_de_representacion_de_color_en_aplicaciones_de_tratamiento_de_imagenes_digitales"
     },
     {
       "name": "Casus Belli Corp. v2",
@@ -710,6 +855,62 @@
         "Macromedia Flash"
       ],
       "url": "https://github.com/knnv-ar/enredada"
+    },
+    {
+      "name": "Foro de estudios sobre la admin. de Justicia",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/fores.gif",
+      "isActive": false,
+      "startDate": "1999-05-01",
+      "endDate": "1999-06-21",
+      "description": "Foro de Estudios sobre la Administración de Justicia's website.",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Asociación Cultural Mariano Moreno",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/moreno.jpg",
+      "isActive": false,
+      "startDate": "1999-06-01",
+      "endDate": "1999-07-01",
+      "description": "Asociación Cultural Mariano Moreno's website.",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Complejo Portuario Euroamérica",
+      "position": "Frontend web developer",
+      "projectImage": "/resume/projects/euroamerica.jpg",
+      "isActive": false,
+      "startDate": "1999-07-01",
+      "endDate": "1999-08-01",
+      "description": "Complejo Portuario Euroamérica's website.",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Propuestas de Reforma al Sistema de Justicia",
+      "position": "Multimedia developer",
+      "projectImage": "/resume/projects/justicia.gif",
+      "isActive": false,
+      "startDate": "1999-08-01",
+      "endDate": "1999-10-01",
+      "description": "Interactive CD-ROM that presents the proposals for Reform of the Justice System in Argentina developed for the Ministry of Justice of the Argentine Nation.",
+      "highlights": [
+        "Microsoft Visual Basic",
+        "Adobe Acrobat"
+      ],
+      "url": ""
     },
     {
       "name": "Priority Research Program \"Aldea 21\" v1",
