@@ -48,7 +48,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
             </a>
           )
         }
-        {
+        <!-- {
           phone && (
             <a
               href={`tel:${phone}`}
@@ -59,7 +59,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
               <Phone />
             </a>
           )
-        }
+        } -->
         {
           profiles.map(({ network, url, username }) => {
             const Icon = SOCIAL_ICONS[network];

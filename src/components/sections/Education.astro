@@ -9,25 +9,26 @@ import { education } from "@cv";
     {
       education.map(
         ({ institution, area, studyType, startDate, endDate, url }) => {
-            const startYear = new Date(startDate).getFullYear()
-            const endYear = endDate != null ? new Date(endDate).getFullYear() : 'Present'
-            const years = `${startYear} - ${endYear}`
-          return(
+          const startYear = new Date(startDate).getFullYear();
+          const endYear =
+            endDate != null ? new Date(endDate).getFullYear() : "Present";
+          const years = `${startYear} - ${endYear}`;
+          return (
             <li>
-                <article>
-                    <header>
-                        <div>
-                            <h3>{institution}</h3>
-                            <h4>{area}</h4>
-                        </div>
-                        <time>{years}</time>
-                    </header>
-                    <footer>
-                        <p>{studyType}</p>
-                    </footer>
-                </article>
+              <article>
+                <header>
+                  <div>
+                    <h3>{institution}</h3>
+                    <h4>{area}</h4>
+                  </div>
+                  <time>{years}</time>
+                </header>
+                <footer>
+                  <p>{studyType}</p>
+                </footer>
+              </article>
             </li>
-          )
+          );
         }
       )
     }
@@ -35,37 +36,36 @@ import { education } from "@cv";
 </Section>
 
 <style>
-    ul {
-        display: flex;
-        flex-direction: column;
-        gap: 32px;
-    }
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
 
-    article h3 {
-        font-weight: 500;
-        color: #111;
-    }
+  article h3 {
+    font-weight: 500;
+    color: #111;
+  }
 
-    article h4 {
-        font-weight: 400;
-        font-variant-caps: all-small-caps;
-        color: #222;
-        letter-spacing: 0.2rem;
-    }
+  article h4 {
+    font-weight: 400;
+    font-variant-caps: all-small-caps;
+    color: #222;
+    letter-spacing: 0.2rem;
+  }
 
-    header {
-        display: flex;
-        justify-content: space-between;
-        align-items: first baseline;
-        margin-bottom: 16px;
-    }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: first baseline;
+    margin-bottom: 16px;
+  }
 
-    time {
-        color: #555;
-        font-size: 0.85rem;
-        letter-spacing: -0.05rem;
-    }
-    footer {
-        
-    }
+  time {
+    color: #555;
+    font-size: 0.85rem;
+    letter-spacing: -0.05rem;
+  }
+  footer {
+  }
 </style>

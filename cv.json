@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Raúl Federico Lacabanne",
-    "label": "Full Stack Developer & Master in Digital Arts",
+    "label": "Digital Media Developer, Master in Digital Arts &  Full Stack Developer",
     "image": "/resume/me.webp",
-    "email": "john@gmail.com",
+    "email": "knnv.ar@gmail.com",
     "phone": "112223333",
     "url": "https://knnv-ar.github.io/portfolio/",
-    "summary": "Tenured Full Professor of Multimedia Art Production and Digital Art Theory, I am a lecturer and researcher with 20+ years of experience teaching courses at both the undergraduate and postgraduate levels. I specialize in the development of digital assets, including full-stack websites, soundscapes, video art, art installations, electronic art, document digitization and preservation, still images, and video presentations, among others. I am passionate about groundbreaking digital technologies and interdisciplinary working groups. I adapt well to the changing needs of businesses and enjoy researching and applying new frameworks and libraries to streamline the production process.",
+    "summary": "I am a lecturer and researcher with over 20 years of experience teaching courses at both the undergraduate and postgraduate levels. I specialize in the development of digital assets, including full-stack websites, soundscapes, video art, art installations, electronic art, document digitization and preservation, still images, and video presentations, among others. I am passionate about groundbreaking digital technologies and interdisciplinary working groups. I adapt well to the changing needs of businesses and enjoy researching and applying new frameworks and libraries to streamline the production process.",
     "location": {
-      "address": "",
+      "address": "Buenos Aires, Argentina",
       "postalCode": "",
       "city": "Buenos Aires",
       "countryCode": "AR",
@@ -38,7 +38,6 @@
       "position": "Senior Digital Media Developer",
       "url": "https://scioteca.caf.com/handle/123456789/2159",
       "startDate": "2022-08-01",
-      "endDate": "2024-10-30",
       "summary": "I developed several digital publications for \"Development Bank of Latin America and the Caribbean\" (CAF), \"International Labour Organization\" (ILO), \"PROMACE, Government of the province of Jujuy\"  and \"Ministry of Science, Technology and Innovation of Argentina\".",
       "highlights": [
         "InDesign",
@@ -55,7 +54,6 @@
       "position": "Director of the Executing Unit \"Audiovisual analysis, production and realization\"",
       "url": "https://scioteca.caf.com/handle/123456789/2159",
       "startDate": "2021-04-01",
-      "endDate": "2024-12-31",
       "summary": "The EU is recognized for its advice to educational, NGOs, social and cultural institutions on pedagogical strategies and planning in audiovisual communication. And has a strong territory presence for its production of audiovisual assets in different formats and supports.",
       "highlights": [
         "UNQTv"
@@ -78,7 +76,6 @@
       "position": "University Professor",
       "url": "",
       "startDate": "2010-05-20",
-      "endDate": "2024-12-31",
       "summary": "Tenured Full Professor. Actually teaches Multimedia Arts levels 1 and 4. Previously teached Multimedia Arts level 2, and Computer Art level 1.",
       "highlights": [
         "Multimedia Arts level 1",
@@ -90,7 +87,6 @@
       "position": "University Professor",
       "url": "",
       "startDate": "2010-10-11",
-      "endDate": "2024-12-31",
       "summary": "Tenured Associate Professor. Actually teaches Arts and Aesthetics of the 21st Century. Previously teached Workshop for the Integration of Generative Image and Sound Technologies., Multimedia Production Workshop and Development and Administration of Content Management Systems.",
       "highlights": [
         "Arts and Aesthetics of the 21st Century",
@@ -205,7 +201,7 @@
   "education": [
     {
       "institution": "Digitalhouse (DH), Argentina",
-      "url": "https://institution.com/",
+      "url": "https://www.digitalhouse.com/ar",
       "area": "Full Stack Web Developer",
       "studyType": "Higher education course",
       "startDate": "2022-05-01",
@@ -537,7 +533,7 @@
       "projectImage": "/resume/projects/micaela-02.png",
       "isActive": true,
       "startDate": "2023-11-24",
-      "endDate": "2024-01-03",
+      "endDate": "2023-12-01",
       "description": "This is a two-course curricular proposal. The first course explores \"How does a gender perspective improve research?\" and the second on on \"How does the gender perspective improve evaluation processes?\"",
       "highlights": [
         "Moodle",
