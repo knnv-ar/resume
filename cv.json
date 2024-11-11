@@ -810,20 +810,6 @@
       "url": "https://github.com/knnv-ar/quilmes-town-hall"
     },
     {
-      "name": "Municipalidad de Quilmes v1",
-      "position": "Frontend web developer",
-      "projectImage": "/resume/projects/project-04.png",
-      "isActive": true,
-      "startDate": "2001-05-01",
-      "endDate": "2001-04-01",
-      "description": "Homepage's first draft for a project called \"Municipalidad de Quilmes\" for Priority Research Program \"Aldea 21\" directed by Esther Schiavo at Universidad Nacional de Quilmes.",
-      "highlights": [
-        "HTML",
-        "CSS"
-      ],
-      "url": "https://github.com/knnv-ar/mol-sketch/"
-    },
-    {
       "name": "Casus Belli Corp. v1",
       "position": "Frontend web developer",
       "projectImage": "/resume/projects/project-03.png",
