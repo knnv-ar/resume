@@ -534,7 +534,7 @@
       "isActive": true,
       "startDate": "2023-11-24",
       "endDate": "2023-12-01",
-      "description": "This is a two-course curricular proposal. The first course explores \"How does a gender perspective improve research?\" and the second on on \"How does the gender perspective improve evaluation processes?\"",
+      "description": "This is a two-course curricular proposal.",
       "highlights": [
         "Moodle",
         "HTML",
@@ -550,7 +550,7 @@
       "isActive": true,
       "startDate": "2023-05-09",
       "endDate": "2023-10-27",
-      "description": "Two-volume digital publication for PROMACE, Government of the province of Jujuy, Argentina. The first one is a \"Dissemination piece\" (26 pp.) and the second one a \"Final report\" (77 pp.)",
+      "description": "Two-volume digital publication for PROMACE, Government of the province of Jujuy, Argentina.",
       "highlights": [
         "InDesign",
         "Photoshop",
@@ -595,7 +595,7 @@
       "isActive": true,
       "startDate": "2022-10-24",
       "endDate": "2022-11-03",
-      "description": "<la-piscine> is a digital art gallery that showcases the works created by students who took Multimedia Arts subjects levels 1 and 4, under the guidance of Professor Lacabanne, as part of the Multimedia Arts degree at the A.T.A.M. of the National University of the Arts.",
+      "description": "<la-piscine> is a digital art gallery showcasing the work of Multimedia Arts Level 1 students.",
       "highlights": [
         "Ruby",
         "Rubygems",
@@ -610,7 +610,7 @@
       "isActive": true,
       "startDate": "2022-10-24",
       "endDate": "2022-11-03",
-      "description": "This is a curricular proposal designed by the Gender Program in conjunction with the National Council for Scientific and Technical Research (CONICET), the National Agency for the Promotion of Scientific Research, Technological Development and Innovation (R&D Agency ), the National Commission for Space Activities (CONAE) and the National Genetic Data Bank (BNDG), within the framework of the Replicator Training Program “Ley Micaela” of the Ministry of Women, Gender and Diversity of the Argentina Republic.",
+      "description": "This is a curriculum proposal developed by the Gender Program in collaboration with CONICET, the R&D Agency, CONAE, and BNDG, under the framework of the Ministry of Women, Gender, and Diversity’s 'Ley Micaela' Program.",
       "highlights": [
         "Moodle",
         "HTML",
@@ -626,7 +626,7 @@
       "isActive": true,
       "startDate": "2020-09-01",
       "endDate": "2021-12-16",
-      "description": "<la-piscine> is a digital art gallery that showcases the works created by students who took Multimedia Arts subjects levels 1 and 4, under the guidance of Professor Lacabanne, as part of the Multimedia Arts degree at the A.T.A.M. of the National University of the Arts.",
+      "description": "<la-piscine> is a digital art gallery showcasing the work of Multimedia Arts Level 1 students.",
       "highlights": [
         "Ruby",
         "Rubygems",
@@ -641,7 +641,7 @@
       "isActive": true,
       "startDate": "2008-11-03",
       "endDate": "2010-04-17",
-      "description": "This work attempts to present a genealogy about the term computer-based interactivity and other associated terms such as interaction and interactive. Its content is presented mainly with the copy>paste technique whose origin is found in various proposals by leading researchers mainly from the fields of sociology, communication and computing. Given the transdisciplinary nature of interactive art, I believe it is important to review these approaches with the aim of beginning to propose some elements that help to think about a kind of aesthetics of interactivity, which allows us to reflect on a work of new media, both from the level of poiesis as that of aesthesis.",
+      "description": "This work attempts to present a genealogy about the term computer-based interactivity.",
       "highlights": [
         "Mass-media communication",
         "computer-based interactivity"
@@ -655,7 +655,7 @@
       "isActive": true,
       "startDate": "2007-07-23",
       "endDate": "2008-10-01",
-      "description": "We will focus on “The palace of destinations”, an artistic installation of Virtual Reality (VR) carried out in 2006 by the artists Romina Carrasco (Ecuador), Raúl Federico Lacabanne (Argentina), Mónica Ruiz (Mexico) and Jorge Luis Suárez Pepe (Argentina). It was carried out as a final project for the Virtual Reality chair belonging to the Master in Digital Arts at the Pompeu Fabra University, supervised and evaluated by professors Narcís Parés, Roc Parés Burguès and Joan Soler-Adillon. We will now detail and explain the script and the proposed interaction design, the model of virtual subjectivity and virtual environment chosen and, finally, the development phases according to the approach strategy based on interaction.",
+      "description": "This paper explores “The palace of destinations”, a virtual reality art installation, covering its script and design interaction design among other aspects.",
       "highlights": [
         "Virtual reality installation",
         "Digital art"
@@ -663,13 +663,13 @@
       "url": "https://www.academia.edu/298485/El_Palacio_de_los_Destinos_pensar_una_experiencia_de_Realidad_Virtual"
     },
     {
-      "name": "Diseño de presentaciones multimedia dinámicas para el análisis de la música electroacústica",
+      "name": "Diseño de presentaciones multimedia de música electroacústica",
       "position": "Article author",
       "projectImage": "/resume/projects/presentaciones.png",
       "isActive": true,
       "startDate": "2004-03-01",
       "endDate": "2006-05-01",
-      "description": "The present work aims to expose some problems related to the design and development of multimedia presentations applied to the analysis of electroacoustic music. A case study and the production methodology used in carrying it out will be shown. Finally, a series of proposals to improve the presentation will be proposed for a second version of it.",
+      "description": "This work addresses challenges in designing and developing multimedia presentations for analyzing electroacoustic music.",
       "highlights": [
         "Multimedia presentations",
         "Musical analisys"
@@ -683,14 +683,11 @@
       "isActive": true,
       "startDate": "2005-09-01",
       "endDate": "2004-04-01",
-      "description": "A collection of 4 hipermedia scores for contemporary musical analysis.",
+      "description": "A collection of four hipermedia scores for contemporary musical analysis.",
       "highlights": [
         "Adobe Photoshop",
         "Adobe Illustrator",
-        "Adobe Audition",
-        "Adobe Flash",
-        "HTML",
-        "CSS"
+        "Adobe Flash"
       ],
       "url": "https://github.com/knnv-ar/metascores"
     },
@@ -717,7 +714,7 @@
       "isActive": true,
       "startDate": "2002-12-01",
       "endDate": "2002-12-10",
-      "description": "When we work with digital images (whether for artistic or commercial purposes), it is necessary to indicate which color representation model is going to be used in them, since the chromatic spectral ranges of the various supports present differences, which can even reach be very accentuated. We have selected as case studies the color representation models found in the main commercial image processing software: the HSB, HSV, HSL, RGB, CMY, CMYK and CIE L*a*b* models. We propose to describe the operation of each type of color representation model and define the most appropriate types of application for these models depending on the production processes they will receive and the material support of the final image.",
+      "description": "In this paper we propose to describe most common color representation model.",
       "highlights": [
         "Color modes",
         "Color management"
