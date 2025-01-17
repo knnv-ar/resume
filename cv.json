@@ -263,6 +263,20 @@
   ],
   "skills": [
     {
+      "name": "Godot Engine",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": [
+        "Game design"
+      ]
+    },
+    {
+      "name": "gdscript",
+      "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+      "keywords": [
+        "Game development"
+      ]
+    },
+    {
       "name": "HTML",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
