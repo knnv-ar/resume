@@ -270,10 +270,10 @@
       ]
     },
     {
-      "name": "gdscript",
+      "name": "GDScript",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Game development"
+        "Godot Engine scripting language"
       ]
     },
     {
