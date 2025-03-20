@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Raúl Federico Lacabanne",
-    "label": "Digital Media Developer, Master in Digital Arts &  Full Stack Developer",
+    "label": "Desarrollador de Medios Digitales, Máster en Artes Digitales y Desarrollador Full Stack",
     "image": "/resume/me.webp",
     "email": "knnv.ar@gmail.com",
     "phone": "1153355152",
     "url": "https://knnv-ar.github.io/portfolio/",
-    "summary": "I am a lecturer and researcher with over 20 years of experience teaching courses at both the undergraduate and postgraduate levels. I specialize in the development of digital assets, including full-stack websites, soundscapes, video art, art installations, electronic art, document digitization and preservation, still images, and video presentations, among others. I am passionate about groundbreaking digital technologies and interdisciplinary working groups. I adapt well to the changing needs of businesses and enjoy researching and applying new frameworks and libraries to streamline the production process.",
+    "summary": "Soy docente e investigador con más de 20 años de experiencia impartiendo cursos tanto a nivel de grado como de posgrado. Me especializo en el desarrollo de activos digitales, incluyendo sitios web full-stack, paisajes sonoros, videoarte, instalaciones artísticas, arte electrónico, digitalización y preservación de documentos, imágenes fijas y presentaciones de video, entre otros. Me apasionan las tecnologías digitales innovadoras y los grupos de trabajo interdisciplinarios. Me adapto bien a las cambiantes necesidades de las empresas y disfruto investigando y aplicando nuevos frameworks y bibliotecas para optimizar el proceso de producción.",
     "location": {
       "address": "Buenos Aires, Argentina",
       "postalCode": "",
@@ -35,10 +35,10 @@
   "work": [
     {
       "name": "Centro de Políticas Públicas en Educación, Comunicación y Tecnología (UNQ)",
-      "position": "Senior Digital Media Developer",
+      "position": "Desarrollador Senior de Medios Digitales",
       "url": "https://scioteca.caf.com/handle/123456789/2159",
       "startDate": "2022-08-01",
-      "summary": "I developed several digital publications for \"Development Bank of Latin America and the Caribbean\" (CAF), \"International Labour Organization\" (ILO), \"PROMACE, Government of the province of Jujuy\"  and \"Ministry of Science, Technology and Innovation of Argentina\".",
+      "summary": "Desarrollé varias publicaciones digitales para el \"Banco de Desarrollo de América Latina y el Caribe\" (CAF), la \"Organización Internacional del Trabajo\" (OIT), \"PROMACE, Gobierno de la provincia de Jujuy\" y el \"Ministerio de Ciencia, Tecnología e Innovación de Argentina\".",
       "highlights": [
         "InDesign",
         "Photoshop",
@@ -51,98 +51,98 @@
     },
     {
       "name": "Universidad Nacional de Quilmes",
-      "position": "Director of the Executing Unit \"Audiovisual analysis, production and realization\"",
+      "position": "Director de la Unidad Ejecutora \"Análisis, producción y realización audiovisual\"",
       "url": "https://scioteca.caf.com/handle/123456789/2159",
       "startDate": "2021-04-01",
-      "summary": "The EU is recognized for its advice to educational, NGOs, social and cultural institutions on pedagogical strategies and planning in audiovisual communication. And has a strong territory presence for its production of audiovisual assets in different formats and supports.",
+      "summary": "La UE es reconocida por su asesoramiento a instituciones educativas, ONG, sociales y culturales sobre estrategias pedagógicas y planificación en comunicación audiovisual. Y tiene una fuerte presencia territorial por su producción de activos audiovisuales en diferentes formatos y soportes.",
       "highlights": [
         "UNQTv"
       ]
     },
     {
       "name": "Universidad Nacional de las Artes",
-      "position": "General Director of the Transdepartmental Area of Multimedia Arts",
+      "position": "Director General del Área Transdepartamental de Artes Multimediales",
       "url": "https://www.argentina.gob.ar/sites/default/files/fasciculo_cuyo-_libro.pdf",
       "startDate": "2011-11-26",
       "endDate": "2021-06-15",
-      "summary": "General Director of the Transdepartamental Area that offers an undergraduate degree and three graduate degrees.",
+      "summary": "Director General del Área Transdepartamental que ofrece una licenciatura y tres posgrados.",
       "highlights": [
-        "Multimedia Arts",
-        "University Institution Management"
+        "Artes Multimediales",
+        "Gestión de Instituciones Universitarias"
       ]
     },
     {
       "name": "Universidad Nacional de las Artes",
-      "position": "University Professor",
+      "position": "Profesor Universitario",
       "url": "",
       "startDate": "2010-05-20",
-      "summary": "Tenured Full Professor. Actually teaches Multimedia Arts levels 1 and 4. Previously teached Multimedia Arts level 2, and Computer Art level 1.",
+      "summary": "Profesor Titular. Actualmente enseña Artes Multimediales niveles 1 y 4. Anteriormente enseñó Artes Multimediales nivel 2 e Informática aplicada al Arte nivel 1.",
       "highlights": [
-        "Multimedia Arts level 1",
-        "Multimedia Arts level 4"
+        "Artes Multimediales nivel 1",
+        "Artes Multimediales nivel 4"
       ]
     },
     {
       "name": "Universidad Nacional Quilmes",
-      "position": "University Professor",
+      "position": "Profesor Universitario",
       "url": "",
       "startDate": "2010-10-11",
-      "summary": "Tenured Associate Professor. Actually teaches Arts and Aesthetics of the 21st Century. Previously teached Workshop for the Integration of Generative Image and Sound Technologies., Multimedia Production Workshop and Development and Administration of Content Management Systems.",
+      "summary": "Profesor Asociado. Actualmente enseña Arte y Estética del Siglo XXI. Anteriormente enseñó Taller de Integración de Tecnologías de Imagen y Sonido Generativo, Taller de Producción Multimedial y Desarrollo y Administración de Sistemas de Gestión de Contenidos.",
       "highlights": [
-        "Arts and Aesthetics of the 21st Century",
-        "Integration of Generative Image and Sound Technologies Workshop",
-        "Multimedia Production Workshop",
-        "Development and Administration of Content Management Systems"
+        "Arte y Estética del Siglo XXI",
+        "Taller de Integración de Tecnologías de Imagen y Sonido Generativo",
+        "Taller de Producción Multimedial",
+        "Desarrollo y Administración de Sistemas de Gestión de Contenidos"
       ]
     },
     {
       "name": "Universidad Nacional de las Artes",
-      "position": "University Professor",
+      "position": "Profesor Universitario",
       "url": "",
       "startDate": "2007-04-01",
       "endDate": "2010-05-19",
-      "summary": "Adjunct Professor. \"Multimedia Design level 3\" and \"Multimedia Production Workshop level 3\"",
+      "summary": "Profesor Adjunto. \"Diseño Multimedial nivel 3\" y \"Taller de Producción Multimedial nivel 3\"",
       "highlights": [
-        "Multimedia Design level 3",
-        "Multimedia Production Workshop level 3",
-        "Multimedia Design level 6",
-        "Multimedia Production Workshop level 5",
-        "Multimedia Production Workshop level 6",
-        "Applied Computing level 2",
-        "Applied Computing level 1",
-        "Multimedia Arts level 2",
-        "Multimedia Arts level 4"
+        "Diseño Multimedial nivel 3",
+        "Taller de Producción Multimedial nivel 3",
+        "Diseño Multimedial nivel 6",
+        "Taller de Producción Multimedial nivel 5",
+        "Taller de Producción Multimedial nivel 6",
+        "Computación Aplicada nivel 2",
+        "Computación Aplicada nivel 1",
+        "Artes Multimediales nivel 2",
+        "Artes Multimediales nivel 4"
       ]
     },
     {
       "name": "Universidad Nacional Quilmes",
-      "position": "University Professor",
+      "position": "Profesor Universitario",
       "url": "",
       "startDate": "2004-04-01",
       "endDate": "2010-10-10",
-      "summary": "Adjunct Professor. \"Multimedia Production Workshop\"",
+      "summary": "Profesor Adjunto. \"Taller de Producción Multimedial\"",
       "highlights": [
-        "Multimedia Production Workshop"
+        "Taller de Producción Multimedial"
       ]
     },
     {
       "name": "Universidad Nacional Quilmes",
-      "position": "University Professor",
+      "position": "Profesor Universitario",
       "url": "",
       "startDate": "2001-04-01",
       "endDate": "2004-03-31",
-      "summary": "Assistant Professor. \"Multimedia Production Workshop\"",
+      "summary": "Profesor Asistente. \"Taller de Producción Multimedial\"",
       "highlights": [
-        "Multimedia Production Workshop"
+        "Taller de Producción Multimedial"
       ]
     },
     {
       "name": "Instituto Blas Pascal",
-      "position": "Professor",
+      "position": "Profesor",
       "url": "",
       "startDate": "1999-03-01",
       "endDate": "2001-12-31",
-      "summary": "Author of the planning, layout and implementation of the \"Web Design developer\" course.",
+      "summary": "Autor de la planificación, diseño e implementación del curso \"Desarrollador de Diseño Web\".",
       "highlights": [
         "Adobe Photoshop",
         "Adobe Illustrator",
@@ -153,31 +153,31 @@
     },
     {
       "name": "Programa Prioritario de Investigación Aldea XXI, Universidad Nacional de Quilmes",
-      "position": "Research assistant",
+      "position": "Asistente de investigación",
       "url": "",
       "startDate": "1999-03-01",
       "endDate": "2001-12-31",
-      "summary": "I developed and research on static and dinamic website, interactive CD-ROMs and several graphic design works.",
+      "summary": "Desarrollé e investigué sobre sitios web estáticos y dinámicos, CD-ROMs interactivos y varios trabajos de diseño gráfico.",
       "highlights": [
-        "Websites",
+        "Sitios web",
         "CD-ROMs"
       ]
     },
     {
       "name": "Haciendo el Futuro",
-      "position": "Graphic designer, fullstack & hypermedia developer",
+      "position": "Diseñador gráfico, desarrollador fullstack e hipermedia",
       "url": "",
       "startDate": "1998-03-01",
       "endDate": "2000-11-30",
-      "summary": "I developed static and dinamic website, interactive CD-ROMs and several graphic design works.",
+      "summary": "Desarrollé sitios web estáticos y dinámicos, CD-ROMs interactivos y varios trabajos de diseño gráfico.",
       "highlights": [
-        "Websites",
+        "Sitios web",
         "CD-ROMs"
       ]
     },
     {
       "name": "Micro Support Informatica S.R.L.",
-      "position": "Graphic designer and print assistant",
+      "position": "Diseñador gráfico y asistente de impresión",
       "url": "",
       "startDate": "1992-03-01",
       "endDate": "1996-06-31",
@@ -187,14 +187,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Organization",
-      "position": "Volunteer",
+      "organization": "Organización",
+      "position": "Voluntario",
       "url": "https://organization.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
-      "summary": "Description…",
+      "summary": "Descripción…",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Premiado como 'Voluntario del Mes'"
       ]
     }
   ],
@@ -202,63 +202,63 @@
     {
       "institution": "Digitalhouse (DH), Argentina",
       "url": "https://www.digitalhouse.com.ar",
-      "area": "Full Stack Web Developer",
-      "studyType": "Higher education course",
+      "area": "Desarrollador Web Full Stack",
+      "studyType": "Curso de educación superior",
       "startDate": "2022-05-01",
       "endDate": "2022-11-01",
-      "score": "Approved",
+      "score": "Aprobado",
       "courses": [
-        "DB1101 - Basic SQL"
+        "DB1101 - SQL Básico"
       ]
     },
     {
-      "institution": "Universitat Pompeu Fabra (UPF), Spain",
+      "institution": "Universitat Pompeu Fabra (UPF), España",
       "url": "https://institution.com/",
-      "area": "Digital Arts",
-      "studyType": "Master degree",
+      "area": "Artes Digitales",
+      "studyType": "Maestría",
       "startDate": "2005-10-01",
       "endDate": "2006-12-15",
-      "score": "Approved",
+      "score": "Aprobado",
       "courses": [
-        "DB1101 - Basic SQL"
+        "DB1101 - SQL Básico"
       ]
     },
     {
       "institution": "Universidad Nacional de Quilmes (UNQ), Argentina",
       "url": "https://institution.com/",
-      "area": "Musical Composition with Electroacoustic Media",
-      "studyType": "Bachelor degree",
+      "area": "Composición Musical con Medios Electroacústicos",
+      "studyType": "Licenciatura",
       "startDate": "1993-04-01",
       "endDate": "2001-08-20",
-      "score": "Approved",
+      "score": "Aprobado",
       "courses": [
-        "DB1101 - Basic SQL"
+        "DB1101 - SQL Básico"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Award",
+      "title": "Premio",
       "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "awarder": "Empresa",
+      "summary": "No hay cuchara."
     }
   ],
   "certificates": [
     {
-      "name": "Certificate",
+      "name": "Certificado",
       "date": "2021-11-07",
-      "issuer": "Company",
+      "issuer": "Empresa",
       "url": "https://certificate.com"
     }
   ],
   "publications": [
     {
-      "name": "Publication",
-      "publisher": "Company",
+      "name": "Publicación",
+      "publisher": "Empresa",
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
-      "summary": "Description…"
+      "summary": "Descripción…"
     }
   ],
   "skills": [
@@ -266,21 +266,21 @@
       "name": "Godot Engine",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Game design"
+        "Diseño de videojuegos"
       ]
     },
     {
       "name": "GDScript",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Godot Engine scripting language"
+        "Lenguaje de programación de Godot Engine"
       ]
     },
     {
       "name": "HTML",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Frontend"
       ]
     },
@@ -288,26 +288,26 @@
       "name": "CSS",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Frontend",
-        "Responsive design"
+        "Diseño responsivo"
       ]
     },
     {
       "name": "Tailwind CSS",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Frontend",
-        "CSS Framework",
-        "Responsive design"
+        "Framework CSS",
+        "Diseño responsivo"
       ]
     },
     {
       "name": "JavaScript",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Frontend",
         "Backend",
         "Fullstack"
@@ -317,8 +317,8 @@
       "name": "EJS",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
-        "Template engine",
+        "Desarrollo web",
+        "Motor de plantillas",
         "JavaScript"
       ]
     },
@@ -326,35 +326,35 @@
       "name": "TypeScript",
       "level": "&#9733; &#9733; &#9734; &#9734; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Frontend",
         "Backend",
-        "JS superset"
+        "Superset de JS"
       ]
     },
     {
       "name": "Node JS",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Backend",
-        "JS runtime environment"
+        "Entorno de ejecución de JS"
       ]
     },
     {
       "name": "PHP",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Backend",
-        "Server-side scripting"
+        "Scripting del lado del servidor"
       ]
     },
     {
       "name": "MySQL",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Database",
+        "Base de datos",
         "SQL",
         "Backend"
       ]
@@ -363,16 +363,16 @@
       "name": "Express.js",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Backend",
-        "Node.js framework"
+        "Framework de Node.js"
       ]
     },
     {
       "name": "MongoDB",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Database",
+        "Base de datos",
         "NoSQL",
         "Backend"
       ]
@@ -381,61 +381,61 @@
       "name": "Sequelize",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Backend",
-        "ORM for Node.js"
+        "ORM para Node.js"
       ]
     },
     {
       "name": "Prisma",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Backend",
-        "Database toolkit"
+        "Kit de herramientas de base de datos"
       ]
     },
     {
       "name": "React",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Frontend",
-        "JavaScript library"
+        "Biblioteca de JavaScript"
       ]
     },
     {
       "name": "Astro",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Frontend",
-        "Static site generator"
+        "Generador de sitios estáticos"
       ]
     },
     {
       "name": "Next.js",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Frontend",
-        "React framework"
+        "Framework de React"
       ]
     },
     {
       "name": "p5.js",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Frontend",
-        "JavaScript library for creative coding"
+        "Biblioteca de JavaScript para codificación creativa"
       ]
     },
     {
       "name": "Restful API",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "API",
         "Backend"
       ]
@@ -444,26 +444,26 @@
       "name": "Ruby",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Backend",
-        "Scripting language"
+        "Lenguaje de scripting"
       ]
     },
     {
       "name": "Rubygems",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Ruby",
-        "Package manager"
+        "Gestor de paquetes"
       ]
     },
     {
       "name": "Jekyll",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
-        "Static site generator",
+        "Desarrollo web",
+        "Generador de sitios estáticos",
         "Ruby"
       ]
     },
@@ -471,7 +471,7 @@
       "name": "Git",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Source Code Management",
+        "Gestión de código fuente",
         "SQL",
         "Backend"
       ]
@@ -480,75 +480,75 @@
       "name": "GitHub",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Version control",
-        "Collaboration platform"
+        "Control de versiones",
+        "Plataforma de colaboración"
       ]
     },
     {
       "name": "Markdown",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Documentation",
-        "Text formatting"
+        "Documentación",
+        "Formato de texto"
       ]
     },
     {
       "name": "MDX",
       "level": "&#9733; &#9733; &#9733; &#9734; &#9734;",
       "keywords": [
-        "Web development",
+        "Desarrollo web",
         "Markdown",
-        "React components"
+        "Componentes de React"
       ]
     },
     {
       "name": "GitHub Flavored Markdown",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Documentation",
-        "Text formatting",
+        "Documentación",
+        "Formato de texto",
         "GitHub"
       ]
     },
     {
-      "name": "Agile methodologies",
+      "name": "Metodologías ágiles",
       "level": "&#9733; &#9733; &#9733; &#9733; &#9734;",
       "keywords": [
-        "Project management",
-        "Collaborative development"
+        "Gestión de proyectos",
+        "Desarrollo colaborativo"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Inglés",
+      "fluency": "Hablante nativo"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Vida salvaje",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Hurones",
+        "Unicornios"
       ]
     }
   ],
   "references": [
     {
       "name": "Jane Doe",
-      "reference": "Reference…"
+      "reference": "Referencia…"
     }
   ],
   "projects": [
     {
       "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias. Segunda cohorte.",
-      "position": "Graphic & layout designer",
+      "position": "Diseñador gráfico y de maquetación",
       "projectImage": "/resume/projects/micaela-02.png",
       "isActive": true,
       "startDate": "2023-11-24",
       "endDate": "2023-12-01",
-      "description": "This is a two-course curricular proposal.",
+      "description": "Esta es una propuesta curricular de dos cursos.",
       "highlights": [
         "Moodle",
         "HTML",
@@ -559,12 +559,12 @@
     },
     {
       "name": "Transformación digital en la educación. El modelo de las Aulas Digitales Móviles en Jujuy, Argentina",
-      "position": "Graphic & layout designer",
+      "position": "Diseñador gráfico y de maquetación",
       "projectImage": "/resume/projects/caf-01.png",
       "isActive": true,
       "startDate": "2023-05-09",
       "endDate": "2023-10-27",
-      "description": "Two-volume digital publication for PROMACE, Government of the province of Jujuy, Argentina.",
+      "description": "Publicación digital de dos volúmenes para PROMACE, Gobierno de la provincia de Jujuy, Argentina.",
       "highlights": [
         "InDesign",
         "Photoshop",
@@ -574,12 +574,12 @@
     },
     {
       "name": "Contenidos pedagógicos para los referentes de los centros de cuidado del \"Programa Buena Cosecha\"",
-      "position": "Graphic & layout designer",
+      "position": "Diseñador gráfico y de maquetación",
       "projectImage": "/resume/projects/ilo-01.png",
       "isActive": true,
       "startDate": "2023-02-09",
       "endDate": "2023-08-07",
-      "description": "Graphic & layout design",
+      "description": "Diseño gráfico y de maquetación",
       "highlights": [
         "InDesign",
         "Photoshop",
@@ -589,12 +589,12 @@
     },
     {
       "name": "El Aula Digital Móvil (ADM) en la enseñanza. De la exploración al proyecto.",
-      "position": "Graphic & layout designer",
+      "position": "Diseñador gráfico y de maquetación",
       "projectImage": "/resume/projects/promace-01.png",
       "isActive": true,
       "startDate": "2023-02-09",
       "endDate": "2023-04-26",
-      "description": "Graphic & layout design",
+      "description": "Diseño gráfico y de maquetación",
       "highlights": [
         "InDesign",
         "Photoshop",
@@ -604,12 +604,12 @@
     },
     {
       "name": "<la-piscine> v2",
-      "position": "Web developer",
+      "position": "Desarrollador web",
       "projectImage": "/resume/projects/project-13.png",
       "isActive": true,
       "startDate": "2022-10-24",
       "endDate": "2022-11-03",
-      "description": "<la-piscine> is a digital art gallery showcasing the work of Multimedia Arts Level 1 students.",
+      "description": "<la-piscine> es una galería de arte digital que muestra el trabajo de los estudiantes de Artes Multimediales Nivel 1.",
       "highlights": [
         "Ruby",
         "Rubygems",
@@ -619,12 +619,12 @@
     },
     {
       "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias.",
-      "position": "Graphic & layout designer",
+      "position": "Diseñador gráfico y de maquetación",
       "projectImage": "/resume/projects/project-12.png",
       "isActive": true,
       "startDate": "2022-10-24",
       "endDate": "2022-11-03",
-      "description": "This is a curriculum proposal developed by the Gender Program in collaboration with CONICET, the R&D Agency, CONAE, and BNDG, under the framework of the Ministry of Women, Gender, and Diversity’s 'Ley Micaela' Program.",
+      "description": "Esta es una propuesta curricular desarrollada por el Programa de Género en colaboración con CONICET, la Agencia de I+D, CONAE y BNDG, en el marco del Programa \"Ley Micaela\" del Ministerio de Mujeres, Géneros y Diversidad.",
       "highlights": [
         "Moodle",
         "HTML",
@@ -635,12 +635,12 @@
     },
     {
       "name": "<la-piscine> v1",
-      "position": "Graphic & layout designer",
+      "position": "Diseñador gráfico y de maquetación",
       "projectImage": "/resume/projects/la-piscine-v1.png",
       "isActive": true,
       "startDate": "2020-09-01",
       "endDate": "2021-12-16",
-      "description": "<la-piscine> is a digital art gallery showcasing the work of Multimedia Arts Level 1 students.",
+      "description": "<la-piscine> es una galería de arte digital que muestra el trabajo de los estudiantes de Artes Multimediales Nivel 1.",
       "highlights": [
         "Ruby",
         "Rubygems",
@@ -650,54 +650,54 @@
     },
     {
       "name": "¿Qué entendemos por interactividad?",
-      "position": "Article author",
+      "position": "Autor",
       "projectImage": "/resume/projects/interactividad.png",
       "isActive": true,
       "startDate": "2008-11-03",
       "endDate": "2010-04-17",
-      "description": "This work attempts to present a genealogy about the term computer-based interactivity.",
+      "description": "Este trabajo intenta presentar una genealogía sobre el término interactividad basada en computadoras.",
       "highlights": [
-        "Mass-media communication",
-        "computer-based interactivity"
+        "Comunicación masiva",
+        "Interactividad basada en computadoras"
       ],
       "url": "https://www.academia.edu/475633/_Qu%C3%A9_entendemos_por_interactividad"
     },
     {
       "name": "El palacio de los destinos: pensar una experiencia de RV",
-      "position": "Article author",
+      "position": "Autor",
       "projectImage": "/resume/projects/palacio.png",
       "isActive": true,
       "startDate": "2007-07-23",
       "endDate": "2008-10-01",
-      "description": "This paper explores “The palace of destinations”, a virtual reality art installation, covering its script and design interaction design among other aspects.",
+      "description": "Este artículo explora \"El palacio de los destinos\", una instalación de arte de realidad virtual, cubriendo su guión y diseño de interacción, entre otros aspectos.",
       "highlights": [
-        "Virtual reality installation",
-        "Digital art"
+        "Instalación de realidad virtual",
+        "Arte digital"
       ],
       "url": "https://www.academia.edu/298485/El_Palacio_de_los_Destinos_pensar_una_experiencia_de_Realidad_Virtual"
     },
     {
       "name": "Diseño de presentaciones multimedia de música electroacústica",
-      "position": "Article author",
+      "position": "Autor del artículo",
       "projectImage": "/resume/projects/presentaciones.png",
       "isActive": true,
       "startDate": "2004-03-01",
       "endDate": "2006-05-01",
-      "description": "This work addresses challenges in designing and developing multimedia presentations for analyzing electroacoustic music.",
+      "description": "Este trabajo aborda los desafíos en el diseño y desarrollo de presentaciones multimedia para el análisis de música electroacústica.",
       "highlights": [
-        "Multimedia presentations",
-        "Musical analisys"
+        "Presentaciones multimedia",
+        "Análisis musical"
       ],
       "url": "https://www.academia.edu/76101644/Dise%C3%B1o_de_presentaciones_multimedia_din%C3%A1micas_para_el_an%C3%A1lisis_de_la_m%C3%BAsica_electroac%C3%BAstica"
     },
     {
       "name": "metaScores",
-      "position": "Hypermedia app developer",
+      "position": "Desarrollador de aplicaciones hipermedia",
       "projectImage": "/resume/projects/metascores.png",
       "isActive": true,
       "startDate": "2005-09-01",
       "endDate": "2004-04-01",
-      "description": "A collection of four hipermedia scores for contemporary musical analysis.",
+      "description": "Una colección de cuatro partituras hipermedia para el análisis musical contemporáneo.",
       "highlights": [
         "Adobe Photoshop",
         "Adobe Illustrator",
@@ -707,12 +707,12 @@
     },
     {
       "name": "Observatorio Cono Sur de Defensa y Fuerzas Armadas",
-      "position": "Full stack web developer",
+      "position": "Desarrollador web full stack",
       "projectImage": "/resume/projects/project-11.png",
       "isActive": false,
       "startDate": "2004-02-09",
       "endDate": "2004-02-09",
-      "description": "First prototype for the Defense and Armed Forces \"Southern Cone Observatory\" Program in Universidad Nacional de Quilmes.",
+      "description": "Primer prototipo para el Programa \"Observatorio Cono Sur de Defensa y Fuerzas Armadas\" en la Universidad Nacional de Quilmes.",
       "highlights": [
         "Classic ASP",
         "MySQL",
@@ -723,26 +723,26 @@
     },
     {
       "name": "Modelos de representación de color en aplicaciones de tratamiento de imágenes digitales",
-      "position": "Article author",
+      "position": "Autor del artículo",
       "projectImage": "/resume/projects/modelos.png",
       "isActive": true,
       "startDate": "2002-12-01",
       "endDate": "2002-12-10",
-      "description": "In this paper we propose to describe most common color representation model.",
+      "description": "En este artículo proponemos describir los modelos de representación de color más comunes.",
       "highlights": [
-        "Color modes",
-        "Color management"
+        "Modos de color",
+        "Gestión de color"
       ],
       "url": "https://www.academia.edu/119021175/Modelos_de_representacion_de_color_en_aplicaciones_de_tratamiento_de_imagenes_digitales"
     },
     {
       "name": "Casus Belli Corp. v2",
-      "position": "Frontend web developer",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/project-10.png",
       "isActive": true,
       "startDate": "2001-12-01",
       "endDate": "2001-11-01",
-      "description": "A restylized version of my old (one year) portfolio. Actually neat and minified.",
+      "description": "Una versión rediseñada de mi antiguo (de un año) portafolio. Actualmente limpio y minimizado.",
       "highlights": [
         "HTML",
         "CSS"
@@ -750,13 +750,13 @@
       "url": "https://github.com/knnv-ar/casus/"
     },
     {
-      "name": "Rembrandt, the artist",
-      "position": "Frontend web developer",
+      "name": "Rembrandt, el artista",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/project-09.png",
       "isActive": true,
       "startDate": "2001-09-01",
       "endDate": "2001-08-01",
-      "description": "A website in homage to Rembrandt van Rijn. Just experimenting with embedded sound, midi and video files.",
+      "description": "Un sitio web en homenaje a Rembrandt van Rijn. Solo experimentando con archivos de sonido, midi y video incrustados.",
       "highlights": [
         "HTML",
         "CSS"
@@ -765,12 +765,12 @@
     },
     {
       "name": "III Jornadas \"Imaginarios Urbanos\"",
-      "position": "Frontend web developer",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/project-08.png",
       "isActive": true,
       "startDate": "2001-03-01",
       "endDate": "2001-04-01",
-      "description": "Proceedings of the Third Conference on \"Urban Imaginaries\": presentations and conferences, Specialization Course in History and Criticism of Architecture and Urbanism, Postgraduate Secretary and Institutional Relations. FADU-UBA. September 14, 15 and 16, 2000.",
+      "description": "Actas de las Terceras Jornadas sobre \"Imaginarios Urbanos\": presentaciones y conferencias, Curso de Especialización en Historia y Crítica de la Arquitectura y el Urbanismo, Secretaría de Posgrado y Relaciones Institucionales. FADU-UBA. 14, 15 y 16 de septiembre de 2000.",
       "highlights": [
         "HTML",
         "CSS"
@@ -778,13 +778,13 @@
       "url": "https://github.com/knnv-ar/tjiu/"
     },
     {
-      "name": "Priority Research Program \"Aldea 21\" v2",
-      "position": "Full stack web developer",
+      "name": "Programa Prioritario de Investigación \"Aldea 21\" v2",
+      "position": "Desarrollador web full stack",
       "projectImage": "/resume/projects/project-07.png",
       "isActive": false,
       "startDate": "2001-02-01",
       "endDate": "2001-03-25",
-      "description": "Dynamic website (later called web 2.0) from 2001 for Priority Research Program \"Aldea 21\" directed by Esther Schiavo at Universidad Nacional de Quilmes.",
+      "description": "Sitio web dinámico (llamado más tarde web 2.0) de 2001 para el Programa Prioritario de Investigación \"Aldea 21\" dirigido por Esther Schiavo en la Universidad Nacional de Quilmes.",
       "highlights": [
         "Classic ASP",
         "HTML",
@@ -793,13 +793,13 @@
       "url": "https://github.com/knnv-ar/aldea21"
     },
     {
-      "name": "\"mol\" municipio on line (prototype)",
-      "position": "Frontend web developer",
+      "name": "\"mol\" municipio en línea (prototipo)",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/project-06.png",
       "isActive": true,
       "startDate": "2001-07-01",
       "endDate": "2001-08-01",
-      "description": "Prototype for a project called \"Municipios On Line\" for Priority Research Program \"Aldea 21\" directed by Esther Schiavo at Universidad Nacional de Quilmes.",
+      "description": "Prototipo para un proyecto llamado \"Municipios En Línea\" para el Programa Prioritario de Investigación \"Aldea 21\" dirigido por Esther Schiavo en la Universidad Nacional de Quilmes.",
       "highlights": [
         "HTML",
         "CSS"
@@ -807,13 +807,13 @@
       "url": "https://github.com/knnv-ar/mol-prototype/"
     },
     {
-      "name": "\"mol\" municipio on line (first draft)",
-      "position": "Frontend web developer",
+      "name": "\"mol\" municipio en línea (primer borrador)",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/project-05.png",
       "isActive": true,
       "startDate": "2001-05-01",
       "endDate": "2001-04-01",
-      "description": "Prototype for a Quilmes Town Hall website proposal (municipio on line). Be aware: contains frames!",
+      "description": "Prototipo para una propuesta de sitio web del Municipio de Quilmes (municipio en línea). ¡Atención: contiene frames!",
       "highlights": [
         "HTML",
         "CSS"
@@ -822,12 +822,12 @@
     },
     {
       "name": "Casus Belli Corp. v1",
-      "position": "Frontend web developer",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/project-03.png",
       "isActive": true,
       "startDate": "1999-07-01",
       "endDate": "2000-03-01",
-      "description": "First personal studio website.",
+      "description": "Primer sitio web personal de estudio.",
       "highlights": [
         "HTML",
         "CSS"
@@ -836,12 +836,12 @@
     },
     {
       "name": "La ciudad en.red.ada",
-      "position": "Frontend web developer",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/project-02.png",
       "isActive": true,
       "startDate": "1999-07-01",
       "endDate": "2000-02-21",
-      "description": "Prototype of a digital multimedia magazine made with HTML, CSS and Macromedia Flash for Priority Research Program \"Aldea 21\".",
+      "description": "Prototipo de una revista multimedia digital realizada con HTML, CSS y Macromedia Flash para el Programa Prioritario de Investigación \"Aldea 21\".",
       "highlights": [
         "HTML",
         "CSS",
@@ -851,12 +851,12 @@
     },
     {
       "name": "Foro de estudios sobre la admin. de Justicia",
-      "position": "Frontend web developer",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/fores.gif",
       "isActive": false,
       "startDate": "1999-05-01",
       "endDate": "1999-06-21",
-      "description": "Foro de Estudios sobre la Administración de Justicia's website.",
+      "description": "Sitio web del Foro de Estudios sobre la Administración de Justicia.",
       "highlights": [
         "HTML",
         "CSS"
@@ -865,12 +865,12 @@
     },
     {
       "name": "Asociación Cultural Mariano Moreno",
-      "position": "Frontend web developer",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/moreno.jpg",
       "isActive": false,
       "startDate": "1999-06-01",
       "endDate": "1999-07-01",
-      "description": "Asociación Cultural Mariano Moreno's website.",
+      "description": "Sitio web de la Asociación Cultural Mariano Moreno.",
       "highlights": [
         "HTML",
         "CSS"
@@ -879,12 +879,12 @@
     },
     {
       "name": "Complejo Portuario Euroamérica",
-      "position": "Frontend web developer",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/euroamerica.jpg",
       "isActive": false,
       "startDate": "1999-07-01",
       "endDate": "1999-08-01",
-      "description": "Complejo Portuario Euroamérica's website.",
+      "description": "Sitio web del Complejo Portuario Euroamérica.",
       "highlights": [
         "HTML",
         "CSS"
@@ -893,12 +893,12 @@
     },
     {
       "name": "Propuestas de Reforma al Sistema de Justicia",
-      "position": "Multimedia developer",
+      "position": "Desarrollador multimedia",
       "projectImage": "/resume/projects/justicia.gif",
       "isActive": false,
       "startDate": "1999-08-01",
       "endDate": "1999-10-01",
-      "description": "Interactive CD-ROM that presents the proposals for Reform of the Justice System in Argentina developed for the Ministry of Justice of the Argentine Nation.",
+      "description": "CD-ROM interactivo que presenta las propuestas de Reforma del Sistema de Justicia en Argentina desarrollado para el Ministerio de Justicia de la Nación Argentina.",
       "highlights": [
         "Microsoft Visual Basic",
         "Adobe Acrobat"
@@ -906,13 +906,13 @@
       "url": ""
     },
     {
-      "name": "Priority Research Program \"Aldea 21\" v1",
-      "position": "Frontend web developer",
+      "name": "Programa Prioritario de Investigación \"Aldea 21\" v1",
+      "position": "Desarrollador web frontend",
       "projectImage": "/resume/projects/project-01.png",
       "isActive": true,
       "startDate": "1999-10-01",
       "endDate": "1999-12-22",
-      "description": "My first website development from 1999 for Priority Research Program \"Aldea 21\" directed by Esther Schiavo at Universidad Nacional de Quilmes.",
+      "description": "Mi primer desarrollo de sitio web de 1999 para el Programa Prioritario de Investigación \"Aldea 21\" dirigido por Esther Schiavo en la Universidad Nacional de Quilmes.",
       "highlights": [
         "HTML",
         "CSS"
