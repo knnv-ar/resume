@@ -2,7 +2,7 @@
   "basics": {
     "name": "Raúl Federico Lacabanne",
     "label": "Desarrollador de Medios Digitales, Máster en Artes Digitales y Desarrollador Full Stack",
-    "image": "/resume/me.webp",
+    "image": "/resume-es/me.webp",
     "email": "knnv.ar@gmail.com",
     "phone": "1153355152",
     "url": "https://knnv-ar.github.io/portfolio/",
@@ -544,7 +544,7 @@
     {
       "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias. Segunda cohorte.",
       "position": "Diseñador gráfico y de maquetación",
-      "projectImage": "/resume/projects/micaela-02.png",
+      "projectImage": "/resume-es/projects/micaela-02.png",
       "isActive": true,
       "startDate": "2023-11-24",
       "endDate": "2023-12-01",
@@ -560,7 +560,7 @@
     {
       "name": "Transformación digital en la educación. El modelo de las Aulas Digitales Móviles en Jujuy, Argentina",
       "position": "Diseñador gráfico y de maquetación",
-      "projectImage": "/resume/projects/caf-01.png",
+      "projectImage": "/resume-es/projects/caf-01.png",
       "isActive": true,
       "startDate": "2023-05-09",
       "endDate": "2023-10-27",
@@ -575,7 +575,7 @@
     {
       "name": "Contenidos pedagógicos para los referentes de los centros de cuidado del \"Programa Buena Cosecha\"",
       "position": "Diseñador gráfico y de maquetación",
-      "projectImage": "/resume/projects/ilo-01.png",
+      "projectImage": "/resume-es/projects/ilo-01.png",
       "isActive": true,
       "startDate": "2023-02-09",
       "endDate": "2023-08-07",
@@ -590,7 +590,7 @@
     {
       "name": "El Aula Digital Móvil (ADM) en la enseñanza. De la exploración al proyecto.",
       "position": "Diseñador gráfico y de maquetación",
-      "projectImage": "/resume/projects/promace-01.png",
+      "projectImage": "/resume-es/projects/promace-01.png",
       "isActive": true,
       "startDate": "2023-02-09",
       "endDate": "2023-04-26",
@@ -605,7 +605,7 @@
     {
       "name": "<la-piscine> v2",
       "position": "Desarrollador web",
-      "projectImage": "/resume/projects/project-13.png",
+      "projectImage": "/resume-es/projects/project-13.png",
       "isActive": true,
       "startDate": "2022-10-24",
       "endDate": "2022-11-03",
@@ -620,7 +620,7 @@
     {
       "name": "Capacitación Ley Micaela. Por una ciencia y tecnología con igualdad de géneros y libre de violencias.",
       "position": "Diseñador gráfico y de maquetación",
-      "projectImage": "/resume/projects/project-12.png",
+      "projectImage": "/resume-es/projects/project-12.png",
       "isActive": true,
       "startDate": "2022-10-24",
       "endDate": "2022-11-03",
@@ -636,7 +636,7 @@
     {
       "name": "<la-piscine> v1",
       "position": "Diseñador gráfico y de maquetación",
-      "projectImage": "/resume/projects/la-piscine-v1.png",
+      "projectImage": "/resume-es/projects/la-piscine-v1.png",
       "isActive": true,
       "startDate": "2020-09-01",
       "endDate": "2021-12-16",
@@ -651,7 +651,7 @@
     {
       "name": "¿Qué entendemos por interactividad?",
       "position": "Autor",
-      "projectImage": "/resume/projects/interactividad.png",
+      "projectImage": "/resume-es/projects/interactividad.png",
       "isActive": true,
       "startDate": "2008-11-03",
       "endDate": "2010-04-17",
@@ -665,7 +665,7 @@
     {
       "name": "El palacio de los destinos: pensar una experiencia de RV",
       "position": "Autor",
-      "projectImage": "/resume/projects/palacio.png",
+      "projectImage": "/resume-es/projects/palacio.png",
       "isActive": true,
       "startDate": "2007-07-23",
       "endDate": "2008-10-01",
@@ -679,7 +679,7 @@
     {
       "name": "Diseño de presentaciones multimedia de música electroacústica",
       "position": "Autor del artículo",
-      "projectImage": "/resume/projects/presentaciones.png",
+      "projectImage": "/resume-es/projects/presentaciones.png",
       "isActive": true,
       "startDate": "2004-03-01",
       "endDate": "2006-05-01",
@@ -693,7 +693,7 @@
     {
       "name": "metaScores",
       "position": "Desarrollador de aplicaciones hipermedia",
-      "projectImage": "/resume/projects/metascores.png",
+      "projectImage": "/resume-es/projects/metascores.png",
       "isActive": true,
       "startDate": "2005-09-01",
       "endDate": "2004-04-01",
@@ -708,7 +708,7 @@
     {
       "name": "Observatorio Cono Sur de Defensa y Fuerzas Armadas",
       "position": "Desarrollador web full stack",
-      "projectImage": "/resume/projects/project-11.png",
+      "projectImage": "/resume-es/projects/project-11.png",
       "isActive": false,
       "startDate": "2004-02-09",
       "endDate": "2004-02-09",
@@ -724,7 +724,7 @@
     {
       "name": "Modelos de representación de color en aplicaciones de tratamiento de imágenes digitales",
       "position": "Autor del artículo",
-      "projectImage": "/resume/projects/modelos.png",
+      "projectImage": "/resume-es/projects/modelos.png",
       "isActive": true,
       "startDate": "2002-12-01",
       "endDate": "2002-12-10",
@@ -738,7 +738,7 @@
     {
       "name": "Casus Belli Corp. v2",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/project-10.png",
+      "projectImage": "/resume-es/projects/project-10.png",
       "isActive": true,
       "startDate": "2001-12-01",
       "endDate": "2001-11-01",
@@ -752,7 +752,7 @@
     {
       "name": "Rembrandt, el artista",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/project-09.png",
+      "projectImage": "/resume-es/projects/project-09.png",
       "isActive": true,
       "startDate": "2001-09-01",
       "endDate": "2001-08-01",
@@ -766,7 +766,7 @@
     {
       "name": "III Jornadas \"Imaginarios Urbanos\"",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/project-08.png",
+      "projectImage": "/resume-es/projects/project-08.png",
       "isActive": true,
       "startDate": "2001-03-01",
       "endDate": "2001-04-01",
@@ -780,7 +780,7 @@
     {
       "name": "Programa Prioritario de Investigación \"Aldea 21\" v2",
       "position": "Desarrollador web full stack",
-      "projectImage": "/resume/projects/project-07.png",
+      "projectImage": "/resume-es/projects/project-07.png",
       "isActive": false,
       "startDate": "2001-02-01",
       "endDate": "2001-03-25",
@@ -795,7 +795,7 @@
     {
       "name": "\"mol\" municipio en línea (prototipo)",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/project-06.png",
+      "projectImage": "/resume-es/projects/project-06.png",
       "isActive": true,
       "startDate": "2001-07-01",
       "endDate": "2001-08-01",
@@ -809,7 +809,7 @@
     {
       "name": "\"mol\" municipio en línea (primer borrador)",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/project-05.png",
+      "projectImage": "/resume-es/projects/project-05.png",
       "isActive": true,
       "startDate": "2001-05-01",
       "endDate": "2001-04-01",
@@ -823,7 +823,7 @@
     {
       "name": "Casus Belli Corp. v1",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/project-03.png",
+      "projectImage": "/resume-es/projects/project-03.png",
       "isActive": true,
       "startDate": "1999-07-01",
       "endDate": "2000-03-01",
@@ -837,7 +837,7 @@
     {
       "name": "La ciudad en.red.ada",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/project-02.png",
+      "projectImage": "/resume-es/projects/project-02.png",
       "isActive": true,
       "startDate": "1999-07-01",
       "endDate": "2000-02-21",
@@ -852,7 +852,7 @@
     {
       "name": "Foro de estudios sobre la admin. de Justicia",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/fores.gif",
+      "projectImage": "/resume-es/projects/fores.gif",
       "isActive": false,
       "startDate": "1999-05-01",
       "endDate": "1999-06-21",
@@ -866,7 +866,7 @@
     {
       "name": "Asociación Cultural Mariano Moreno",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/moreno.jpg",
+      "projectImage": "/resume-es/projects/moreno.jpg",
       "isActive": false,
       "startDate": "1999-06-01",
       "endDate": "1999-07-01",
@@ -880,7 +880,7 @@
     {
       "name": "Complejo Portuario Euroamérica",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/euroamerica.jpg",
+      "projectImage": "/resume-es/projects/euroamerica.jpg",
       "isActive": false,
       "startDate": "1999-07-01",
       "endDate": "1999-08-01",
@@ -894,7 +894,7 @@
     {
       "name": "Propuestas de Reforma al Sistema de Justicia",
       "position": "Desarrollador multimedia",
-      "projectImage": "/resume/projects/justicia.gif",
+      "projectImage": "/resume-es/projects/justicia.gif",
       "isActive": false,
       "startDate": "1999-08-01",
       "endDate": "1999-10-01",
@@ -908,7 +908,7 @@
     {
       "name": "Programa Prioritario de Investigación \"Aldea 21\" v1",
       "position": "Desarrollador web frontend",
-      "projectImage": "/resume/projects/project-01.png",
+      "projectImage": "/resume-es/projects/project-01.png",
       "isActive": true,
       "startDate": "1999-10-01",
       "endDate": "1999-12-22",

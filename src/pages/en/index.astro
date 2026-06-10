@@ -8,20 +8,20 @@ import Projects from "@/components/sections/Projects.astro";
 import Skills from "@/components/sections/Skills.astro";
 import KeyboardManager from "@/components/KeyboardManager.astro";
 
-import cv from "@cv-es";
+import cv from "@cv-en";
 import { translations } from "@/i18n/utils";
 
-const t = translations.es;
+const t = translations.en;
 const { basics, work, education, skills, projects } = cv;
 const { name, label } = basics;
 ---
 
-<Layout title={`${name}'s resume | ${label}`} lang="es">
+<Layout title={`${name}'s resume | ${label}`} lang="en">
   <main>
     <nav class="language-selector no-print">
-      <a href="/resume-es/" class="active">ES</a>
+      <a href="/resume-es/">ES</a>
       <span>|</span>
-      <a href="/resume-es/en/">EN</a>
+      <a href="/resume-es/en/" class="active">EN</a>
     </nav>
 
     <Hero
@@ -44,7 +44,7 @@ const { name, label } = basics;
     printResume={t.printResume}
     actionsLabel={t.actions}
     socialLabel={t.social}
-    visitProfilePrefix="Visitar"
+    visitProfilePrefix="Visit"
   />
 </Layout>
 

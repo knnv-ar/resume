@@ -1,12 +1,20 @@
 ---
-import LinkedIn from "@/icons/LinkedIn.astro";
 import Section from "../Section.astro";
 
-import { projects } from "@cv";
-//import { Image } from "astro:assets";
+interface Props {
+  title: string;
+  projects: any[];
+  visitProjectTitle?: (name: string) => string;
+}
+
+const {
+  title,
+  projects,
+  visitProjectTitle = (name: string) => `Visit the project ${name}`
+} = Astro.props;
 ---
 
-<Section title="Producción">
+<Section title={title}>
   <ul>
     {
       projects.map(
@@ -24,7 +32,7 @@ import { projects } from "@cv";
               <article>
                 <header>
                   <h3>
-                    <a href={url} title={`Visit the project ${name}`}>
+                    <a href={url} title={visitProjectTitle(name)}>
                       {name}
                     </a>
                     {isActive && <span>&bull;</span>}
@@ -34,7 +42,7 @@ import { projects } from "@cv";
                   <p>{description}</p>
                 </header>
                 <footer>
-                  {highlights.map((highlight) => {
+                  {highlights.map((highlight: string) => {
                     return <span>{highlight}</span>;
                   })}
                 </footer>

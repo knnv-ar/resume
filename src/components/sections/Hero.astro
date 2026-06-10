@@ -1,5 +1,4 @@
 ---
-import { basics } from "@cv";
 import Section from "@/components/Section.astro";
 import Mail from "@/icons/Mail.astro";
 import Phone from "@/icons/Phone.astro";
@@ -7,6 +6,18 @@ import X from "@/icons/X.astro";
 import LinkedIn from "@/icons/LinkedIn.astro";
 import GitHub from "@/icons/GitHub.astro";
 import WorldMap from "@/icons/WorldMap.astro";
+
+interface Props {
+  basics: any;
+  emailTitle?: string;
+  visitProfileTitle?: (network: string) => string;
+}
+
+const {
+  basics,
+  emailTitle,
+  visitProfileTitle = (network: string) => `Visit ${basics.name}'s profile at ${network}`
+} = Astro.props;
 
 const { name, label, image, location, profiles, phone, email } = basics;
 const { city, region } = location;
@@ -17,10 +28,11 @@ const SOCIAL_ICONS: Record<string, any> = {
   X,
 };
 
-const linkedInfo = profiles.find(({ network }) => network === "LinkedIn");
+const linkedInfo = (profiles as any[]).find(({ network }: { network: string }) => network === "LinkedIn");
 const linkedUrl = linkedInfo?.url;
 
 const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
+const resolvedEmailTitle = emailTitle || `Send an email to ${name} at ${email}`;
 ---
 
 <Section>
@@ -40,7 +52,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
           email && (
             <a
               href={`mailto:${email}`}
-              title={`Send an email to ${name} at ${email}`}
+              title={resolvedEmailTitle}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -61,13 +73,13 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
           )
         } -->
         {
-          profiles.map(({ network, url, username }) => {
+          (profiles as any[]).map(({ network, url, username }: { network: string, url: string, username: string }) => {
             const Icon = SOCIAL_ICONS[network];
 
             return (
               <a
                 href={url}
-                title={`Visit ${name}'s profile at ${network}`}
+                title={visitProfileTitle(network)}
                 target="_blank"
                 rel="noopener noreferrer"
               >

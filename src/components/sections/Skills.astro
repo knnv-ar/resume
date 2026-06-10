@@ -1,10 +1,15 @@
 ---
 import Section from "../Section.astro";
 
-import { skills } from "@cv";
+interface Props {
+  title: string;
+  skills: any[];
+}
+
+const { title, skills } = Astro.props;
 ---
 
-<Section title="Habilidades">
+<Section title={title}>
   <ul>
     {
       skills.map(
