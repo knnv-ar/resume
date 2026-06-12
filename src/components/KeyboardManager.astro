@@ -89,6 +89,26 @@ const profilesInfo = profiles.map(({ network, url }) => {
       ...data,
     ];
 
+    // Inject styles into shadow DOM for dark-mode footer contrast
+    if (ninja.shadowRoot) {
+      const style = document.createElement("style");
+      style.textContent = `
+        :host-context(.dark) .modal-footer {
+          background: #6c6c6d !important;
+          color: #21262d !important;
+        }
+        :host-context(.dark) .ninja-examplekey {
+          background: #21262d !important;
+          color: #6c6c6d !important;
+        }
+        :host-context(.dark) ninja-action {
+          --ninja-secondary-background-color: #21262d !important;
+          --ninja-secondary-text-color: #6c6c6d !important;
+        }
+      `;
+      ninja.shadowRoot.appendChild(style);
+    }
+
     // Add custom keyboard listener to intercept Ctrl+K / Cmd+K and prevent default browser action
     window.addEventListener("keydown", (event) => {
       const isMac = navigator.userAgent.indexOf("Mac") !== -1;
