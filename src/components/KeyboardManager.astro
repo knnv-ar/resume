@@ -88,6 +88,18 @@ const profilesInfo = profiles.map(({ network, url }) => {
       },
       ...data,
     ];
+
+    // Add custom keyboard listener to intercept Ctrl+K / Cmd+K and prevent default browser action
+    window.addEventListener("keydown", (event) => {
+      const isMac = navigator.userAgent.indexOf("Mac") !== -1;
+      const isK = event.key.toLowerCase() === "k";
+      const isMeta = isMac ? event.metaKey : event.ctrlKey;
+
+      if (isMeta && isK) {
+        event.preventDefault();
+        (ninja as any).open();
+      }
+    });
   }
 </script>
 
