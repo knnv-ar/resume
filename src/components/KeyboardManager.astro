@@ -115,6 +115,10 @@ const profilesInfo = profiles.map(({ network, url }) => {
     --ninja-border-color: var(--border-color);
   }
 
+  :global(.dark) ninja-keys {
+    --ninja-secondary-text-color: #21262D;
+  }
+
   @media print {
     ninja-keys {
       display: none !important;
