@@ -7,6 +7,7 @@ import Education from "@/components/sections/Education.astro";
 import Projects from "@/components/sections/Projects.astro";
 import Skills from "@/components/sections/Skills.astro";
 import KeyboardManager from "@/components/KeyboardManager.astro";
+import ThemeToggle from "@/components/ThemeToggle.astro";
 
 import cv from "@cv-en";
 import { translations } from "@/i18n/utils";
@@ -22,6 +23,8 @@ const { name, label } = basics;
       <a href="/resume-es/">ES</a>
       <span>|</span>
       <a href="/resume-es/en/" class="active">EN</a>
+      <span class="separator">|</span>
+      <ThemeToggle />
     </nav>
 
     <Hero
@@ -53,6 +56,13 @@ const { name, label } = basics;
     padding: 4rem;
     margin: auto;
     width: 100%;
+    max-width: 1000px;
+  }
+
+  @media print {
+    main {
+      padding: 1.5rem 1rem;
+    }
   }
 
   .language-selector {
@@ -68,7 +78,7 @@ const { name, label } = basics;
   }
 
   .language-selector a {
-    color: #666;
+    color: var(--text-muted);
     text-decoration: none;
     padding: 4px 8px;
     border-radius: 4px;
@@ -76,17 +86,22 @@ const { name, label } = basics;
   }
 
   .language-selector a:hover {
-    background: #eee;
-    color: #111;
+    background: var(--badge-bg);
+    color: var(--text-strong);
   }
 
   .language-selector a.active {
     font-weight: bold;
-    color: #111;
-    border: 1px solid #111;
+    color: var(--text-strong);
+    border: 1px solid var(--text-strong);
   }
 
   .language-selector span {
-    color: #ccc;
+    color: var(--border-color);
+  }
+
+  .language-selector .separator {
+    color: var(--border-color);
+    margin-right: 4px;
   }
 </style>

@@ -92,6 +92,17 @@ const profilesInfo = profiles.map(({ network, url }) => {
 </script>
 
 <style>
+  ninja-keys {
+    --ninja-background: var(--bg-color);
+    --ninja-text-color: var(--text-color);
+    --ninja-placeholder-color: var(--text-muted);
+    --ninja-secondary-background: var(--badge-bg);
+    --ninja-selected-background: var(--badge-bg);
+    --ninja-accent-color: var(--accent-color);
+    --ninja-key-color: var(--text-color);
+    --ninja-border-color: var(--border-color);
+  }
+
   @media print {
     ninja-keys {
       display: none !important;
@@ -109,8 +120,9 @@ const profilesInfo = profiles.map(({ network, url }) => {
   }
 
   footer {
-    background: #fdfdfd;
-    border-top: 1px solid #eee;
+    background: var(--footer-bg);
+    color: var(--text-muted);
+    border-top: 1px solid var(--border-color);
     position: fixed;
     bottom: 0px;
     width: 100%;
@@ -127,7 +139,8 @@ const profilesInfo = profiles.map(({ network, url }) => {
   }
 
   kbd {
-    background: #eee;
+    background: var(--kbd-bg);
+    color: var(--kbd-color);
     border-radius: 4px;
     padding: 2px 4px;
     font-size: 12px;

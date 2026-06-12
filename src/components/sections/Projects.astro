@@ -1,7 +1,7 @@
 ---
 import Section from "../Section.astro";
 
-interface Props {
+export interface Props {
   title: string;
   projects: any[];
   visitProjectTitle?: (name: string) => string;
@@ -32,14 +32,14 @@ const {
               <article>
                 <header>
                   <h3>
-                    <a href={url} title={visitProjectTitle(name)}>
+                    <a href={url} target="_blank" rel="noopener noreferrer" title={visitProjectTitle(name)}>
                       {name}
                     </a>
                     {isActive && <span>&bull;</span>}
                   </h3>
-                  <p>{position}</p>
-                  <img src={projectImage} alt="" />
-                  <p>{description}</p>
+                  <p class="project-position">{position}</p>
+                  {projectImage && <img src={projectImage} alt={name} loading="lazy" />}
+                  <p class="project-description">{description}</p>
                 </header>
                 <footer>
                   {highlights.map((highlight: string) => {
@@ -65,12 +65,25 @@ const {
 
   article {
     border-radius: 8px;
-    border: 1px solid #f2f2f2;
+    border: 1px solid var(--border-color);
+    background: var(--card-bg);
+    box-shadow: var(--card-shadow);
     gap: 16px;
     display: flex;
     flex-direction: column;
     padding: 16px;
     height: 100%;
+    transition: all 0.2s ease-in-out;
+  }
+
+  article:hover {
+    border-color: var(--card-hover-border);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  :global(.dark) article:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   }
 
   article header {
@@ -79,28 +92,46 @@ const {
 
   article h3 {
     margin-bottom: 4px;
+    font-size: 1.05rem;
   }
 
   article a {
-    color: #111;
+    color: var(--text-strong);
+    transition: color 0.2s ease;
   }
 
   article a:hover {
+    color: var(--accent-color);
     text-decoration: underline;
+  }
+
+  .project-position {
+    color: var(--text-color);
+    font-weight: 500;
+  }
+
+  .project-description {
+    color: var(--text-muted);
   }
 
   article p {
     font-size: 0.75rem;
-    line-height: 1.2rem;
-    margin-bottom: 4px;
+    line-height: 1.25rem;
+    margin-bottom: 8px;
   }
 
   article img {
     width: 100%;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    margin-block: 8px;
+    object-fit: cover;
+    aspect-ratio: 16 / 9;
   }
 
   article h3 span {
     color: rgb(0, 188, 47);
+    margin-left: 4px;
   }
 
   footer {
@@ -112,10 +143,29 @@ const {
 
   footer span {
     border-radius: 6px;
-    background: #eee;
-    color: #444;
+    background: var(--badge-bg);
+    color: var(--badge-color);
     font-size: 0.6rem;
     font-weight: 500;
     padding: 0.2rem 0.6rem;
+    transition: all 0.2s ease;
+  }
+
+  footer span:hover {
+    background: var(--accent-glow);
+    color: var(--accent-color);
+  }
+
+  @media print {
+    article img {
+      display: none;
+    }
+
+    article {
+      box-shadow: none !important;
+      border: 1px solid var(--border-color) !important;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
   }
 </style>

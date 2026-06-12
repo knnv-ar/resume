@@ -1,7 +1,7 @@
 ---
 import Section from "../Section.astro";
 
-interface Props {
+export interface Props {
   title: string;
   education: any[];
   presentLabel?: string;
@@ -24,7 +24,15 @@ const { title, education, presentLabel = "Present" } = Astro.props;
               <article>
                 <header>
                   <div>
-                    <h3>{institution}</h3>
+                    <h3>
+                      {url ? (
+                        <a href={url} target="_blank" rel="noopener noreferrer" class="institution-link">
+                          {institution}
+                        </a>
+                      ) : (
+                        institution
+                      )}
+                    </h3>
                     <h4>{area}</h4>
                   </div>
                   <time>{years}</time>
@@ -50,28 +58,37 @@ const { title, education, presentLabel = "Present" } = Astro.props;
 
   article h3 {
     font-weight: 500;
-    color: #111;
+    color: var(--text-strong);
+  }
+
+  .institution-link {
+    color: var(--text-strong);
+    transition: color 0.2s ease;
+  }
+
+  .institution-link:hover {
+    color: var(--accent-color);
+    text-decoration: underline;
   }
 
   article h4 {
     font-weight: 400;
     font-variant-caps: all-small-caps;
-    color: #222;
+    color: var(--text-color);
     letter-spacing: 0.2rem;
+    margin-top: 4px;
   }
 
   header {
     display: flex;
     justify-content: space-between;
     align-items: first baseline;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
   }
 
   time {
-    color: #555;
+    color: var(--text-muted);
     font-size: 0.85rem;
     letter-spacing: -0.05rem;
-  }
-  footer {
   }
 </style>

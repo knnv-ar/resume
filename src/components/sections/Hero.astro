@@ -7,7 +7,7 @@ import LinkedIn from "@/icons/LinkedIn.astro";
 import GitHub from "@/icons/GitHub.astro";
 import WorldMap from "@/icons/WorldMap.astro";
 
-interface Props {
+export interface Props {
   basics: any;
   emailTitle?: string;
   visitProfileTitle?: (network: string) => string;
@@ -60,7 +60,7 @@ const resolvedEmailTitle = emailTitle || `Send an email to ${name} at ${email}`;
             </a>
           )
         }
-        <!-- {
+        {
           phone && (
             <a
               href={`tel:${phone}`}
@@ -71,9 +71,9 @@ const resolvedEmailTitle = emailTitle || `Send an email to ${name} at ${email}`;
               <Phone />
             </a>
           )
-        } -->
+        }
         {
-          (profiles as any[]).map(({ network, url, username }: { network: string, url: string, username: string }) => {
+          (profiles as any[]).map(({ network, url }: { network: string, url: string }) => {
             const Icon = SOCIAL_ICONS[network];
 
             return (
@@ -114,10 +114,11 @@ const resolvedEmailTitle = emailTitle || `Send an email to ${name} at ${email}`;
 
   h1 {
     font-size: 2rem;
+    color: var(--text-strong);
   }
 
   h2 {
-    color: #444;
+    color: var(--text-color);
     font-weight: 500;
     font-size: 1.1rem;
     text-wrap: balance;
@@ -128,11 +129,13 @@ const resolvedEmailTitle = emailTitle || `Send an email to ${name} at ${email}`;
     object-fit: cover;
     width: 128px;
     border-radius: 16px;
-    box-shadow: 1px 1px 6px #000;
+    box-shadow: var(--card-shadow);
+    border: 1px solid var(--border-color);
+    transition: all 0.3s ease;
   }
 
   span {
-    color: #666;
+    color: var(--text-muted);
     display: flex;
     align-items: center;
     gap: 0.25rem;
@@ -141,7 +144,7 @@ const resolvedEmailTitle = emailTitle || `Send an email to ${name} at ${email}`;
   }
 
   footer {
-    color: #555;
+    color: var(--text-muted);
     font-size: 0.65rem;
     display: flex;
     gap: 4px;
@@ -149,11 +152,11 @@ const resolvedEmailTitle = emailTitle || `Send an email to ${name} at ${email}`;
   }
 
   footer a {
-    color: #666;
+    color: var(--text-muted);
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #eee;
+    border: 1px solid var(--border-color);
     padding: 4px;
     height: 32px;
     width: 32px;
@@ -162,7 +165,9 @@ const resolvedEmailTitle = emailTitle || `Send an email to ${name} at ${email}`;
   }
 
   footer a:hover {
-    background: #eee;
+    background: var(--badge-bg);
+    color: var(--accent-color);
+    border-color: var(--accent-color);
   }
 
   @media screen and (max-width: 600px) {
