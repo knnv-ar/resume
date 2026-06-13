@@ -5,7 +5,6 @@ import About from "@/components/sections/About.astro";
 import Experience from "@/components/sections/Experience.astro";
 import Education from "@/components/sections/Education.astro";
 import Projects from "@/components/sections/Projects.astro";
-import Skills from "@/components/sections/Skills.astro";
 import KeyboardManager from "@/components/KeyboardManager.astro";
 import ThemeToggle from "@/components/ThemeToggle.astro";
 
@@ -13,7 +12,7 @@ import cv from "@cv-en";
 import { translations } from "@/i18n/utils";
 
 const t = translations.en;
-const { basics, work, education, skills, projects } = cv;
+const { basics, work, education, projects } = cv;
 const { name, label } = basics;
 ---
 
@@ -35,7 +34,6 @@ const { name, label } = basics;
     <About title={t.aboutTitle} summary={basics.summary} />
     <Experience title={t.experienceTitle} work={work} presentLabel={t.present} />
     <Education title={t.educationTitle} education={education} presentLabel={t.present} />
-    <Skills title={t.skillsTitle} skills={skills} />
     <Projects title={t.projectsTitle} projects={projects} visitProjectTitle={t.visitProject} />
   </main>
 
